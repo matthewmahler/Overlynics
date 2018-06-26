@@ -4,7 +4,6 @@ const owapi = require('owapi');
 
  
 
-// Matches with "/api/nyt"
 router
   .route("/")
   .get(function (req, res) {

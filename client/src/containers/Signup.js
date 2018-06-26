@@ -1,8 +1,50 @@
-import React from 'react'
-import { Button, Form, Grid, Header, Message, Segment } from 'semantic-ui-react'
+import React, { Component } from 'react';
+import { Button, Form, Grid, Header, Message, Segment } from 'semantic-ui-react';
+import API from '../utils/API';
+import { Route, Redirect } from 'react-router'
+import Login from './Login';
 
-const Signup = () => (
-  <div className='login-form'>
+class Signup extends Component {
+
+  state = {
+    loggedIn: false,
+    email: "",
+    password: ""
+  }
+
+  handleInputChange = event => {
+    let value = event.target.value;
+    const name = event.target.name;
+
+    this.setState({
+      [name]: value
+    });
+  };
+  handleFormSubmit = event => {
+    event.preventDefault();
+    API.userSave({
+        email: this.state.email,
+        password: this.state.password
+      }).then(res => console.log(res))
+      .catch(err => console.log(err));
+      
+      return (
+        <Route exact path="/" render={() => (
+          loggedIn ? (
+            <Redirect to="/games"/>
+          ) : (
+            <Login/>
+          )
+        )}/>
+        )
+
+  };
+
+
+
+  render() {
+    return (
+      <div className='login-form'>
       <style>{`
       body > div,
       body > div > div,
@@ -13,30 +55,41 @@ const Signup = () => (
     <Grid textAlign='center' style={{ height: '100%' }} verticalAlign='middle'>
       <Grid.Column style={{ maxWidth: 450 }}>
         <Header as='h2' color='black' textAlign='center'>
-         Sign up for a new account
+          Sign up for a new account
         </Header>
         <Form size='large'>
           <Segment stacked>
-            <Form.Input fluid icon='user' iconPosition='left' placeholder='E-mail address' />
+            <Form.Input fluid icon='user' iconPosition='left' placeholder='E-mail address'
+             value={this.state.email}
+             name="email"
+             onChange={this.handleInputChange}
+             type="text" />
             <Form.Input
               fluid
               icon='lock'
               iconPosition='left'
               placeholder='Password'
-              type='password'
+              value={this.state.password}
+            name="password"
+            onChange={this.handleInputChange}
+            type="password"
             />
 
-            <Button color='black' fluid size='large'>
-              Sign Up!
+            <Button color='black' fluid size='large' onClick={this.handleFormSubmit}>
+              Sign Up
             </Button>
           </Segment>
         </Form>
         <Message>
-          Already have an account? <a href='/'>Log In</a>
+          Have an account? <a href='/signup'>Log In</a>
         </Message>
       </Grid.Column>
     </Grid>
   </div>
-)
+    )
+  }
+}
 
-export default Signup
+export default Signup;
+
+
