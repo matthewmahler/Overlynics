@@ -1,0 +1,171 @@
+//////////
+//Models//
+//////////
+
+User
+  Email [string]
+  Password [string]
+  UUID [string]
+
+    Accounts
+      Battletag  [string]
+      GT-UUID  [string]
+      userID (foriegn key)  [string]
+
+        Sessions
+          sessionID  [string]
+            MASSIVE RESPONSE OBJECT [who the fuck knows]
+          gt-id (foriegn key) [string]
+          userID (foriegn key) [string]
+            
+            Games
+              userid (foriegn key)  [string]
+              GT-UUID (foriegn key)  [string]
+              sessionID (foriegn key) [string]
+              session game number  [integer]
+              season game number [integer]
+              account game number [integer]
+              rank [integer]
+              map [string]
+              isPlacement [boolean]
+
+Seasons
+  season number [integer]
+  start Date [date]
+  end Date [date]
+
+
+//////////
+//Routes//
+//////////
+
+Post
+  posts to user table
+    only happen from create account components
+
+
+  posts to accounts table
+    belongs to
+      userID
+        has to hit the bliz API (gt/bt just has to exist)for authentication
+
+  posts to session table
+    belongs to
+          userID
+          accountid
+            has to hit the bliz API, if response matches the previous session, 
+
+ posts to games table
+    belongs to
+      Sessions
+      Accounts
+      User
+        within: season
+
+Delete
+
+Update
+
+//////////////
+//Components//
+//////////////
+
+create account form
+
+login form
+
+      
+navbar
+  router
+
+pages
+  graph page
+    
+  games table
+    header
+      table rows
+        individual cells
+
+
+  stats page
+    overall stats
+
+    individual character stats
+      character cards
+
+sidebar
+  season selector 
+  gt selector
+  game entry
+   
+
+
+
+////////////
+//Sessions//
+////////////
+
+first ever login:
+  hit the API, store that as baseline
+    then
+      start new session
+        enter new games and associate with the current sessionID
+
+all subsequent login
+  hit the api, 
+    compare it against the previous session,
+      if theres no new data, dont start a new session
+      else, start a new session
+       then
+        associate the api data with the previous session 
+
+
+/////////
+//State//
+/////////
+
+ state = {
+    sessionStats:[fucking huge object]
+    games: [array of objects],
+    sessionID: "",
+    currentAccount: "",
+    currentUser: "",
+    selectedSeason: #
+    currentSeason: #
+  };
+
+
+///////////////////
+//Getting started//
+///////////////////
+
+create-react-app overlynics
+
+yarn add axios react-router-dom
+
+B O O T S T R A P 
+
+delete test, logo, css files, services workers
+
+pages folder to hold the main views
+
+components folder
+
+utils folder for APIs
+
+
+////////////////
+//Node Modules//
+////////////////
+"dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "mongoose": "^5.0.11",   
+    "uuid-v4": "^0.1.0",
+    "owapi": 
+  }
