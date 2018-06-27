@@ -7,11 +7,11 @@ import Games from "./containers/Games";
 import Graphs from "./containers/Graphs";
 import Stats from "./containers/Stats";
 
-
-const App = () => (
+const App = () => 
   <Router>
     <div>
       <Navbar/>
+      
       <Switch>
         <Route exact path="/" component={Login}/>
         <Route exact path="/signup" component={Signup}/>
@@ -25,6 +25,7 @@ const App = () => (
       </Switch>
     </div>
   </Router>
-)
+      
+
 
 export default App;

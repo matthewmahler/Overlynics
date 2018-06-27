@@ -8,7 +8,8 @@ class Login extends Component {
   state = {
     loggedIn: false,
     email: "",
-    password: ""
+    password: "",
+    currentUser: ""
   }
 
   handleInputChange = event => {
@@ -24,9 +25,10 @@ class Login extends Component {
     event.preventDefault();
     API.userRetrieve(this.state.email)
     .then(res => {
-      console.log(res)
+ 
       if (res.data.email === this.state.email){
         this.setState({loggedIn: true})
+        this.setState({currentUser: res.data._id})
       }
     })
     .catch(err => console.log(err))
@@ -34,9 +36,10 @@ class Login extends Component {
 
 
 
-  render() {
+  render(res) {
 
     if (this.state.loggedIn) {
+      
       return <Redirect to="/games" />
     }
 

@@ -10,6 +10,7 @@ User
     Accounts
       Battletag  [string]
       GT-UUID  [string]
+      platform [string]
       userID (foriegn key)  [string]
 
         Sessions
