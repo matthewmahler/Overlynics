@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { Button, Form, Grid, Header, Message, Segment } from 'semantic-ui-react';
 import API from '../utils/API';
-import { Route, Redirect } from 'react-router'
-import Login from './Login';
+import { Redirect } from 'react-router'
 
 class Signup extends Component {
 
@@ -25,24 +24,24 @@ class Signup extends Component {
     API.userSave({
         email: this.state.email,
         password: this.state.password
-      }).then(res => console.log(res))
+      })
+      .then(res => this.setState({
+        loggedIn: true
+      }))
       .catch(err => console.log(err));
       
-      return (
-        <Route exact path="/" render={() => (
-          loggedIn ? (
-            <Redirect to="/games"/>
-          ) : (
-            <Login/>
-          )
-        )}/>
-        )
-
   };
 
 
 
   render() {
+
+    
+      if (this.state.loggedIn) {
+      return <Redirect to="/games" />
+    }
+  
+
     return (
       <div className='login-form'>
       <style>{`

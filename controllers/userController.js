@@ -2,10 +2,9 @@ const Users = require("../models/Users");
 
 // Defining methods for the booksController
 module.exports = {
-  findAll: function (req, res) {
+  findOne: function (req, res) {
     Users
-      .find(req.query)
-      .sort({ date: -1 })
+      .findOne({email: req.params.email})
       .then(dbModel => res.json(dbModel))
       .catch(err => res.status(422).json(err));
   },
@@ -16,10 +15,17 @@ module.exports = {
       .catch(err => res.status(422).json(err));
   },
   create: function (req, res) {
+    console.log(req.body)
     Users
       .create(req.body)
-      .then(dbModel => res.json(dbModel))
-      .catch(err => res.status(422).json(err));
+      .then(dbModel => {
+        console.log(dbModel)
+        res.json(dbModel)
+      })
+      .catch(err => {
+        console.log(err);
+        res.status(422).json(err)
+      });
   },
   update: function (req, res) {
     Users

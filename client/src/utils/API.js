@@ -10,6 +10,8 @@ export default {
     })
   },
 
+ 
+
   /////////  
   //Users//
   /////////
@@ -17,8 +19,8 @@ export default {
     return axios.post("/api/users", userInfo)
   },
 
-  userRetrieve: function () {
-    return axios.get("/api/users")
+  userRetrieve: function (email) {
+    return axios.get(`/api/users/${email}`)
   },
 
   userDelete: function (id) {

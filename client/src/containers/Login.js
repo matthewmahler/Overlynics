@@ -1,9 +1,12 @@
 import React, { Component  } from 'react'
 import { Button, Form, Grid, Header, Message, Segment } from 'semantic-ui-react'
+import { Redirect } from 'react-router'
+import API from '../utils/API';
 
 class Login extends Component {
 
   state = {
+    loggedIn: false,
     email: "",
     password: ""
   }
@@ -19,12 +22,24 @@ class Login extends Component {
 
   handleFormSubmit = event => {
     event.preventDefault();
-    
+    API.userRetrieve(this.state.email)
+    .then(res => {
+      console.log(res)
+      if (res.data.email === this.state.email){
+        this.setState({loggedIn: true})
+      }
+    })
+    .catch(err => console.log(err))
   };
 
 
 
   render() {
+
+    if (this.state.loggedIn) {
+      return <Redirect to="/games" />
+    }
+
     return (
       <div className='login-form'>
       <style>{`
