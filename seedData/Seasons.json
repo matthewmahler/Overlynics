@@ -1,0 +1,57 @@
+[
+  {
+    "seasonNumber": 1,
+    "StartDate": "7/1/2016",
+    "EndDate": "8/19/2016"
+  },
+  {
+    "seasonNumber": 2,
+    "StartDate": "9/1/2016",
+    "EndDate": "11/23/2018"
+  },
+  {
+    "seasonNumber": 3,
+    "StartDate": "12/1/2016",
+    "EndDate": "2/22/2017"
+  },
+  {
+    "seasonNumber": 4,
+    "StartDate": "3/1/2017",
+    "EndDate": "5/29/2017"
+  },
+  {
+    "seasonNumber": 5,
+    "StartDate": "6/1/2017",
+    "EndDate": "8/29/2017"
+  },
+  {
+    "seasonNumber": 6,
+    "StartDate": "9/1/2017",
+    "EndDate": "10/29/2017"
+  },
+  {
+    "seasonNumber": 7,
+    "StartDate": "11/1/2017",
+    "EndDate": "12/29/2017"
+  },
+  {
+    "seasonNumber": 8,
+    "StartDate": "12/29/2017",
+    "EndDate": "2/26/2018"
+  },
+  {
+    "seasonNumber": 9,
+    "StartDate": "3/1/2018",
+    "EndDate": "4/28/2018"
+  },
+  {
+    "seasonNumber": 10,
+    "StartDate": "5/1/2018",
+    "EndDate": "6/28/2018"
+  },
+  {
+    "seasonNumber": 11,
+    "StartDate": "6/30/2018",
+    "EndDate": "8/28/2018"
+  }
+]

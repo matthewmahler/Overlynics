@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const seasonSchema = new Schema({
-  number: { 
+  seasonNumber: { 
     type: Number, 
     required: true 
   },

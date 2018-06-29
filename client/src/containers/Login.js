@@ -1,16 +1,16 @@
 import React, { Component  } from 'react'
 import { Button, Form, Grid, Header, Message, Segment } from 'semantic-ui-react'
-import { Redirect } from 'react-router'
 import API from '../utils/API';
+import { Redirect } from 'react-router'
 
 class Login extends Component {
 
   state = {
-    loggedIn: false,
     email: "",
     password: "",
-    currentUser: ""
   }
+
+
 
   handleInputChange = event => {
     let value = event.target.value;
@@ -22,24 +22,20 @@ class Login extends Component {
   };
 
   handleFormSubmit = event => {
-    event.preventDefault();
+    event.preventDefault();    
     API.userRetrieve(this.state.email)
-    .then(res => {
- 
-      if (res.data.email === this.state.email){
-        this.setState({loggedIn: true})
-        this.setState({currentUser: res.data._id})
+    .then(res => {  
+      if (res.data.password === this.state.password){
+        let id = res.data._id
+        this.props.updateLogin(id)
       }
     })
     .catch(err => console.log(err))
   };
 
+  render() {
 
-
-  render(res) {
-
-    if (this.state.loggedIn) {
-      
+    if (this.props.loggedIn) {
       return <Redirect to="/games" />
     }
 
