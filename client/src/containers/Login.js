@@ -1,88 +1,49 @@
-import React, { Component  } from 'react'
-import { Button, Form, Grid, Header, Message, Segment } from 'semantic-ui-react'
-import API from '../utils/API';
-import { Redirect } from 'react-router'
+import React, { Component } from 'react'
+import {Consumer} from "../Context"
+import {Redirect} from "react-router"
 
 class Login extends Component {
 
-  state = {
-    email: "",
-    password: "",
-  }
-
-
-
-  handleInputChange = event => {
-    let value = event.target.value;
-    const name = event.target.name;
-
-    this.setState({
-      [name]: value
-    });
-  };
-
-  handleFormSubmit = event => {
-    event.preventDefault();    
-    API.userRetrieve(this.state.email)
-    .then(res => {  
-      if (res.data.password === this.state.password){
-        let id = res.data._id
-        this.props.updateLogin(id)
-      }
-    })
-    .catch(err => console.log(err))
-  };
-
   render() {
 
-    if (this.props.loggedIn) {
-      return <Redirect to="/games" />
-    }
 
-    return (
-      <div className='login-form'>
-      <style>{`
-      body > div,
-      body > div > div,
-      body > div > div > div.login-form {
-        height: 100%;
-      }
-    `}</style>
-    <Grid textAlign='center' style={{ height: '100%' }} verticalAlign='middle'>
-      <Grid.Column style={{ maxWidth: 450 }}>
-        <Header as='h2' color='black' textAlign='center'>
-          Log-in to your account
-        </Header>
-        <Form size='large'>
-          <Segment stacked>
-            <Form.Input fluid icon='user' iconPosition='left' placeholder='E-mail address'
-             value={this.state.email}
-             name="email"
-             onChange={this.handleInputChange}
-             type="text" />
-            <Form.Input
-              fluid
-              icon='lock'
-              iconPosition='left'
-              placeholder='Password'
-              value={this.state.password}
-            name="password"
-            onChange={this.handleInputChange}
-            type="password"
-            />
-
-            <Button color='black' fluid size='large' onClick={this.handleFormSubmit}>
-              Login
-            </Button>
-          </Segment>
-        </Form>
-        <Message>
-          New to us? <a href='/signup'>Sign Up</a>
-        </Message>
-      </Grid.Column>
-    </Grid>
-  </div>
-    )
+return <Consumer>
+  {(context) => {
+     
+    return !context.state.loggedIn ? (
+    <form className="form-horizontal">
+    <fieldset>
+    
+    <legend>Log In</legend>
+    
+    <div className="form-group"> 
+      <div className="col-md-4">
+      <input name="email" type="text" placeholder="Email" className="form-control input-md" required="" onChange={context.handleInputChange} value={context.state.email}>
+        </input>
+      </div>
+    </div>
+    
+    <div className="form-group">
+      <div className="col-md-4">
+        <input name="password" type="password" placeholder="password" className="form-control input-md" required="" onChange={context.handleInputChange} value={context.state.password}>
+        </input>
+      </div>
+    </div>
+    
+    <div className="form-group">
+      <div className="col-md-4">
+        <button id="singlebutton" name="singlebutton" className="btn btn-default" onClick={context.handleFormSubmit}>Log In</button>
+      </div>
+    </div>
+    
+    </fieldset>
+    </form>
+    ) :
+    <Redirect to="/games" />
+    
+  }}
+</Consumer>
+    
   }
 }
 

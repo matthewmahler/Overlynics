@@ -6,50 +6,33 @@ import Signup from "./containers/Signup";
 import Games from "./containers/Games";
 import Graphs from "./containers/Graphs";
 import Stats from "./containers/Stats";
+import {Provider} from './Context'
 
 class App extends Component {
 
-  state = {
-    loggedIn: false,
-    sessions: [],
-    games: [],
-    accounts: [],
-    currentsessionID: "",
-    currentAccount: "",
-    currentUser: "",
-    selectedSeason: 0,
-    currentSeason: 0
-  }
-
-  updateLogin = (id) => {
-    this.setState({loggedIn: true, currentUser: id})
-  }
-
-  updateInitialCall = (accounts) => {
-    this.setState({accounts: accounts}
-    )}
-
-  render() {
-
-    return (
+   render() {
+    return (    
+<Provider>
       <Router>
         <div>
           <Navbar/>
-          <Switch>
+          <Switch> 
+          
             <Route
               exact
               path="/"
-              render={() => <Login updateLogin={this.updateLogin} loggedIn={this.state.loggedIn}/>}/>
-            <Route exact path="/signup" render={() => <Signup appState={this.state}/>}/>
-
+              render={() => <Login/>}            
+              />   
+          
+            <Route exact path="/signup" render={() => <Signup/>}/>
             <Route
               exact
               path="/games"
-              render={() => <Games appState={this.state} updateInitialCall={this.updateInitialCall}/>}/>
+              render={() => <Games
+                />}/>
+            <Route exact path="/graphs" render={() => <Graphs/>}/>
 
-            <Route exact path="/graphs" render={() => <Graphs appState={this.state}/>}/>
-
-            <Route exact path="/stats" render={() => <Stats appState={this.state}/>}/>
+            <Route exact path="/stats" render={() => <Stats/>}/>
 
             <Route
               render={() => (
@@ -58,6 +41,7 @@ class App extends Component {
           </Switch>
         </div>
       </Router>
+      </Provider>
     )
   }
 }
