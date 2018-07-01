@@ -4,15 +4,21 @@ const Games = require("../models/Games");
 module.exports = {
   findAll: function (req, res) {
     Games
-      .find(req.query)
+      .findById(req.query)
       .sort({ date: -1 })
       .then(dbModel => res.json(dbModel))
       .catch(err => res.status(422).json(err));
   },
   findById: function (req, res) {
     Games
-      .findById(req.params.id)
-      .then(dbModel => res.json(dbModel))
+      .find({
+        accountID: req.params.currentAccount,
+        seasonID: req.params.currentSeason
+      })
+      .then(dbModel => {
+
+        res.json(dbModel
+        )})
       .catch(err => res.status(422).json(err));
   },
   create: function (req, res) {

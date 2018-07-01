@@ -58,20 +58,22 @@ export default {
   },
 
   /////////  
-  //Users//
+  //games//
   /////////
   gameSave: function (gameInfo) {
     return axios.post("/api/games", gameInfo)
   },
 
-  gameRetrieve: function () {
-    return axios.get("/api/games")
+  gameRetrieve: function (currentAccount, currentSeason) {
+    return axios.get(`/api/games/${currentAccount}/${currentSeason}`)
   },
 
   gameDelete: function (id) {
     return axios.delete(`/api/games/${id}`)
   },
 
+
+  
   seasonRetrieve: function () {
     return axios.get("/api/seasons")
   },

@@ -9,7 +9,7 @@ router
 
 // Matches with "/api/games/:id"
 router
-  .route("/:id")
+  .route("/:currentAccount/:currentSeason")
   .get(gameController.findById)
   .put(gameController.update)
   .delete(gameController.remove);
