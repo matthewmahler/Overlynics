@@ -5,7 +5,6 @@ const gameController = require("../../../controllers/gameController");
 router
   .route("/")
   .get(gameController.findAll)
-  .post(gameController.create);
 
 // Matches with "/api/games/:id"
 router
@@ -13,5 +12,9 @@ router
   .get(gameController.findById)
   .put(gameController.update)
   .delete(gameController.remove);
+
+  router
+  .route("/:userID/:accountID/:sessionID/:seasonID/:sessionGameNumber/:seasonGameNumber/:accountGameNumber/:rank/:map/:isPlacement")
+  .post(gameController.create);
 
 module.exports = router;

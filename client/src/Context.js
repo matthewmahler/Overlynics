@@ -12,14 +12,19 @@ export class Provider extends Component {
     games: [],
     accounts: [],   
     seasons: [],    
-    currentsessionID: "",
+    currentsessionID: "5b3577e92b10b6d743455483",
     currentAccount: "",
+    currentAccountName: "",
     currentUser: "",
     selectedSeason: 0,
     currentSeason: 0,
+    newRank: 0,
+    newMap: ""
   }
 
 //login form
+
+
 
   handleInputChange = event => {
     let value = event.target.value;
@@ -55,7 +60,6 @@ export class Provider extends Component {
       .then(res => {
         let seasons = res.data
         this.setState({seasons: seasons})
-        // this.mapSeasons()
       })
 
   };
@@ -70,16 +74,18 @@ export class Provider extends Component {
         this.setState({
           accounts: accounts
         })
-        // this.mapAccounts()
       }) 
   }
 
+  //sets current account state
   selectAccount = (event) => {
-    this.setState({
+    this.setState({      
+      currentAccountName: this.state.accounts[event.target.selectedIndex - 1].accountName,
       currentAccount: event.target.value
     })  
   };
 
+  //sets current season state
 
   selectSeason = (event) => {
    
@@ -87,6 +93,8 @@ export class Provider extends Component {
       currentSeason: event.target.value
     })  
   };
+
+  //gets games from the database @ current account and season
 
   getGames = (event) => {
     event.preventDefault();
@@ -98,12 +106,60 @@ export class Provider extends Component {
       this.setState({
         games: games
       })
-      // this.mapAccounts()
+     
     }) 
   }
 
+  //rank has to be an integer so we parse it here
 
+  handleRankChange = event => {
+    let value = parseInt(event.target.value, 10);
+    const name = event.target.name;
+    this.setState({
+      [name]: value
+    });
+  };
 
+//enter a new game into 
+
+  handleGameSubmit = event => {
+    event.preventDefault(); 
+    if(this.state.games.length > 0){
+    
+    API.gameSave(this.state.currentUser, this.state.currentAccount, this.state.currentsessionID, this.state.currentSeason, this.state.games[this.state.games.length - 1].sessionGameNumber + 1, this.state.games[this.state.games.length - 1].seasonGameNumber + 1, this.state.games[this.state.games.length - 1].accountGameNumber + 1, this.state.newRank, this.state.newMap, false    
+    )
+    .then(res => {
+      console.log(res)
+      this.getNewGames()
+    })
+    .catch(err => console.log(err))
+
+  }else{
+    API.gameSave(this.state.currentUser, this.state.currentAccount, this.state.currentsessionID,this.state.currentSeason, 1, 1, 1, this.state.newRank, this.state.newMap, false,
+    
+    )
+    .then(res => {
+      console.log(res)
+      this.getNewGames()
+    })
+    .catch(err => console.log(err))
+  }
+  };
+
+  getNewGames = () => {
+    API
+    .gameRetrieve(this.state.currentAccount, this.state.currentSeason)
+    .then(res => {
+      let games = res.data
+      console.log(res) 
+      this.setState({
+        games: games,
+        newMap: "",
+        newRank: 0
+      })
+     
+    }) 
+  }
 
   render() {
     return (
@@ -115,7 +171,9 @@ export class Provider extends Component {
         updateSeasonCall: this.updateSeasonCall,
         selectAccount: this.selectAccount,
         selectSeason: this.selectSeason,
-        getGames: this.getGames
+        getGames: this.getGames,
+        handleRankChange: this.handleRankChange,
+        handleGameSubmit: this.handleGameSubmit
         }}>
         {this.props.children}    
         </MyContext.Provider>

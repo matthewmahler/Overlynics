@@ -60,8 +60,8 @@ export default {
   /////////  
   //games//
   /////////
-  gameSave: function (gameInfo) {
-    return axios.post("/api/games", gameInfo)
+  gameSave: function (userID, accountID, sessionID, seasonID, sessionGameNumber, seasonGameNumber, accountGameNumber, rank, map, isPlacement) {
+    return axios.post(`/api/games/${userID}/${accountID}/${sessionID}/${seasonID}/${sessionGameNumber}/${seasonGameNumber}/${accountGameNumber}/${rank}/${map}/${isPlacement}`)
   },
 
   gameRetrieve: function (currentAccount, currentSeason) {

@@ -9,7 +9,7 @@
     "accountGameNumber": 1819,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -21,7 +21,7 @@
     "accountGameNumber": 1820,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -33,7 +33,7 @@
     "accountGameNumber": 1821,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -45,7 +45,7 @@
     "accountGameNumber": 1822,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -57,7 +57,7 @@
     "accountGameNumber": 1823,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -69,7 +69,7 @@
     "accountGameNumber": 1824,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -81,7 +81,7 @@
     "accountGameNumber": 1825,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -93,7 +93,7 @@
     "accountGameNumber": 1826,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -105,7 +105,7 @@
     "accountGameNumber": 1827,
     "rank": 0,
     "map": "Placement",
-    "isPlacement": "TRUE"
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -117,7 +117,7 @@
     "accountGameNumber": 1828,
     "rank": 3171,
     "map": "Placement",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -129,7 +129,7 @@
     "accountGameNumber": 1829,
     "rank": 3142,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -141,7 +141,7 @@
     "accountGameNumber": 1830,
     "rank": 3162,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -153,7 +153,7 @@
     "accountGameNumber": 1831,
     "rank": 3132,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -165,7 +165,7 @@
     "accountGameNumber": 1832,
     "rank": 3105,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -177,7 +177,7 @@
     "accountGameNumber": 1833,
     "rank": 3082,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -189,7 +189,7 @@
     "accountGameNumber": 1834,
     "rank": 3063,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -201,7 +201,7 @@
     "accountGameNumber": 1835,
     "rank": 3039,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -213,7 +213,7 @@
     "accountGameNumber": 1836,
     "rank": 3061,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -225,7 +225,7 @@
     "accountGameNumber": 1837,
     "rank": 3082,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -237,7 +237,7 @@
     "accountGameNumber": 1838,
     "rank": 3058,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -249,7 +249,7 @@
     "accountGameNumber": 1839,
     "rank": 3078,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -261,7 +261,7 @@
     "accountGameNumber": 1840,
     "rank": 3078,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -273,7 +273,7 @@
     "accountGameNumber": 1841,
     "rank": 3104,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -285,7 +285,7 @@
     "accountGameNumber": 1842,
     "rank": 3118,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -297,7 +297,7 @@
     "accountGameNumber": 1843,
     "rank": 3118,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -309,7 +309,7 @@
     "accountGameNumber": 1844,
     "rank": 3143,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -321,7 +321,7 @@
     "accountGameNumber": 1845,
     "rank": 3110,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -333,7 +333,7 @@
     "accountGameNumber": 1846,
     "rank": 3084,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -345,7 +345,7 @@
     "accountGameNumber": 1847,
     "rank": 3060,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -357,7 +357,7 @@
     "accountGameNumber": 1848,
     "rank": 3033,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -369,7 +369,7 @@
     "accountGameNumber": 1849,
     "rank": 3051,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -381,7 +381,7 @@
     "accountGameNumber": 1850,
     "rank": 3078,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -393,7 +393,7 @@
     "accountGameNumber": 1851,
     "rank": 3101,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -405,7 +405,7 @@
     "accountGameNumber": 1852,
     "rank": 3078,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -417,7 +417,7 @@
     "accountGameNumber": 1853,
     "rank": 3100,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -429,7 +429,7 @@
     "accountGameNumber": 1854,
     "rank": 3075,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -441,7 +441,7 @@
     "accountGameNumber": 1855,
     "rank": 3107,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -453,7 +453,7 @@
     "accountGameNumber": 1856,
     "rank": 3080,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -465,7 +465,7 @@
     "accountGameNumber": 1857,
     "rank": 3102,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -477,7 +477,7 @@
     "accountGameNumber": 1858,
     "rank": 3074,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -489,7 +489,7 @@
     "accountGameNumber": 1859,
     "rank": 3094,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -501,7 +501,7 @@
     "accountGameNumber": 1860,
     "rank": 3112,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -513,7 +513,7 @@
     "accountGameNumber": 1861,
     "rank": 3137,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -525,7 +525,7 @@
     "accountGameNumber": 1862,
     "rank": 3111,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -537,7 +537,7 @@
     "accountGameNumber": 1863,
     "rank": 3083,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -549,7 +549,7 @@
     "accountGameNumber": 1864,
     "rank": 3106,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -561,7 +561,7 @@
     "accountGameNumber": 1865,
     "rank": 3131,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -573,7 +573,7 @@
     "accountGameNumber": 1866,
     "rank": 3156,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -585,7 +585,7 @@
     "accountGameNumber": 1867,
     "rank": 3185,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -597,7 +597,7 @@
     "accountGameNumber": 1868,
     "rank": 3206,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -609,7 +609,7 @@
     "accountGameNumber": 1869,
     "rank": 3231,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -621,7 +621,7 @@
     "accountGameNumber": 1870,
     "rank": 3211,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -633,7 +633,7 @@
     "accountGameNumber": 1871,
     "rank": 3186,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -645,7 +645,7 @@
     "accountGameNumber": 1872,
     "rank": 3211,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -657,7 +657,7 @@
     "accountGameNumber": 1873,
     "rank": 3187,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -669,7 +669,7 @@
     "accountGameNumber": 1874,
     "rank": 3162,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -681,7 +681,7 @@
     "accountGameNumber": 1875,
     "rank": 3187,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -693,7 +693,7 @@
     "accountGameNumber": 1876,
     "rank": 3164,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -705,7 +705,7 @@
     "accountGameNumber": 1877,
     "rank": 3187,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -717,7 +717,7 @@
     "accountGameNumber": 1878,
     "rank": 3163,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -729,7 +729,7 @@
     "accountGameNumber": 1879,
     "rank": 3184,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -741,7 +741,7 @@
     "accountGameNumber": 1880,
     "rank": 3159,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -753,7 +753,7 @@
     "accountGameNumber": 1881,
     "rank": 3136,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -765,7 +765,7 @@
     "accountGameNumber": 1882,
     "rank": 3109,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -777,7 +777,7 @@
     "accountGameNumber": 1883,
     "rank": 3138,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -789,7 +789,7 @@
     "accountGameNumber": 1884,
     "rank": 3158,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -801,7 +801,7 @@
     "accountGameNumber": 1885,
     "rank": 3133,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -813,7 +813,7 @@
     "accountGameNumber": 1886,
     "rank": 3109,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -825,7 +825,7 @@
     "accountGameNumber": 1887,
     "rank": 3140,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -837,7 +837,7 @@
     "accountGameNumber": 1888,
     "rank": 3163,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -849,7 +849,7 @@
     "accountGameNumber": 1889,
     "rank": 3137,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -861,7 +861,7 @@
     "accountGameNumber": 1890,
     "rank": 3137,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -873,7 +873,7 @@
     "accountGameNumber": 1891,
     "rank": 3162,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -885,7 +885,7 @@
     "accountGameNumber": 1892,
     "rank": 3138,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -897,7 +897,7 @@
     "accountGameNumber": 1893,
     "rank": 3161,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -909,7 +909,7 @@
     "accountGameNumber": 1894,
     "rank": 3135,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -921,7 +921,7 @@
     "accountGameNumber": 1895,
     "rank": 3162,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -933,7 +933,7 @@
     "accountGameNumber": 1896,
     "rank": 3185,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -945,7 +945,7 @@
     "accountGameNumber": 1897,
     "rank": 3207,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -957,7 +957,7 @@
     "accountGameNumber": 1898,
     "rank": 3234,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -969,7 +969,7 @@
     "accountGameNumber": 1899,
     "rank": 3251,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -981,7 +981,7 @@
     "accountGameNumber": 1900,
     "rank": 3227,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -993,7 +993,7 @@
     "accountGameNumber": 1901,
     "rank": 3200,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1005,7 +1005,7 @@
     "accountGameNumber": 1902,
     "rank": 3176,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1017,7 +1017,7 @@
     "accountGameNumber": 1903,
     "rank": 3194,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1029,7 +1029,7 @@
     "accountGameNumber": 1904,
     "rank": 3167,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1041,7 +1041,7 @@
     "accountGameNumber": 1905,
     "rank": 3142,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1053,7 +1053,7 @@
     "accountGameNumber": 1906,
     "rank": 3165,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1065,7 +1065,7 @@
     "accountGameNumber": 1907,
     "rank": 3165,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1077,7 +1077,7 @@
     "accountGameNumber": 1908,
     "rank": 3138,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1089,7 +1089,7 @@
     "accountGameNumber": 1909,
     "rank": 3162,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1101,7 +1101,7 @@
     "accountGameNumber": 1910,
     "rank": 3135,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1113,7 +1113,7 @@
     "accountGameNumber": 1911,
     "rank": 3156,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1125,7 +1125,7 @@
     "accountGameNumber": 1912,
     "rank": 3175,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1137,7 +1137,7 @@
     "accountGameNumber": 1913,
     "rank": 3143,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1149,7 +1149,7 @@
     "accountGameNumber": 1914,
     "rank": 3120,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1161,7 +1161,7 @@
     "accountGameNumber": 1915,
     "rank": 3093,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1173,7 +1173,7 @@
     "accountGameNumber": 1916,
     "rank": 3113,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1185,7 +1185,7 @@
     "accountGameNumber": 1917,
     "rank": 3113,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1197,7 +1197,7 @@
     "accountGameNumber": 1918,
     "rank": 3128,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1209,7 +1209,7 @@
     "accountGameNumber": 1919,
     "rank": 3102,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1221,7 +1221,7 @@
     "accountGameNumber": 1920,
     "rank": 3079,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1233,7 +1233,7 @@
     "accountGameNumber": 1921,
     "rank": 3100,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1245,7 +1245,7 @@
     "accountGameNumber": 1922,
     "rank": 3073,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1257,7 +1257,7 @@
     "accountGameNumber": 1923,
     "rank": 3090,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1269,7 +1269,7 @@
     "accountGameNumber": 1924,
     "rank": 3064,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1281,7 +1281,7 @@
     "accountGameNumber": 1925,
     "rank": 3085,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1293,7 +1293,7 @@
     "accountGameNumber": 1926,
     "rank": 3106,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1305,7 +1305,7 @@
     "accountGameNumber": 1927,
     "rank": 3082,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1317,7 +1317,7 @@
     "accountGameNumber": 1928,
     "rank": 3056,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1329,7 +1329,7 @@
     "accountGameNumber": 1929,
     "rank": 3075,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1341,7 +1341,7 @@
     "accountGameNumber": 1930,
     "rank": 3046,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1353,7 +1353,7 @@
     "accountGameNumber": 1931,
     "rank": 3017,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1365,7 +1365,7 @@
     "accountGameNumber": 1932,
     "rank": 3041,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1377,7 +1377,7 @@
     "accountGameNumber": 1933,
     "rank": 3067,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1389,7 +1389,7 @@
     "accountGameNumber": 1934,
     "rank": 3087,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1401,7 +1401,7 @@
     "accountGameNumber": 1935,
     "rank": 3110,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1413,7 +1413,7 @@
     "accountGameNumber": 1936,
     "rank": 3087,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1425,7 +1425,7 @@
     "accountGameNumber": 1937,
     "rank": 3061,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1437,7 +1437,7 @@
     "accountGameNumber": 1938,
     "rank": 3036,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1449,7 +1449,7 @@
     "accountGameNumber": 1939,
     "rank": 3055,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1461,7 +1461,7 @@
     "accountGameNumber": 1940,
     "rank": 3078,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1473,7 +1473,7 @@
     "accountGameNumber": 1941,
     "rank": 3100,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1485,7 +1485,7 @@
     "accountGameNumber": 1942,
     "rank": 3074,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1497,7 +1497,7 @@
     "accountGameNumber": 1943,
     "rank": 3048,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1509,7 +1509,7 @@
     "accountGameNumber": 1944,
     "rank": 3071,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1521,7 +1521,7 @@
     "accountGameNumber": 1945,
     "rank": 3092,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1533,7 +1533,7 @@
     "accountGameNumber": 1946,
     "rank": 3114,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1545,7 +1545,7 @@
     "accountGameNumber": 1947,
     "rank": 3085,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1557,7 +1557,7 @@
     "accountGameNumber": 1948,
     "rank": 3060,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1569,7 +1569,7 @@
     "accountGameNumber": 1949,
     "rank": 3060,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1581,7 +1581,7 @@
     "accountGameNumber": 1950,
     "rank": 3036,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1593,7 +1593,7 @@
     "accountGameNumber": 1951,
     "rank": 3012,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1605,7 +1605,7 @@
     "accountGameNumber": 1952,
     "rank": 2983,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1617,7 +1617,7 @@
     "accountGameNumber": 1953,
     "rank": 2951,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1629,7 +1629,7 @@
     "accountGameNumber": 1954,
     "rank": 2921,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1641,7 +1641,7 @@
     "accountGameNumber": 1955,
     "rank": 2898,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1653,7 +1653,7 @@
     "accountGameNumber": 1956,
     "rank": 2923,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1665,7 +1665,7 @@
     "accountGameNumber": 1957,
     "rank": 2899,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1677,7 +1677,7 @@
     "accountGameNumber": 1958,
     "rank": 2871,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1689,7 +1689,7 @@
     "accountGameNumber": 1959,
     "rank": 2848,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1701,7 +1701,7 @@
     "accountGameNumber": 1960,
     "rank": 2866,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1713,7 +1713,7 @@
     "accountGameNumber": 1961,
     "rank": 2891,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1725,7 +1725,7 @@
     "accountGameNumber": 1962,
     "rank": 2913,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1737,7 +1737,7 @@
     "accountGameNumber": 1963,
     "rank": 2913,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1749,7 +1749,7 @@
     "accountGameNumber": 1964,
     "rank": 2939,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1761,7 +1761,7 @@
     "accountGameNumber": 1965,
     "rank": 2965,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1773,7 +1773,7 @@
     "accountGameNumber": 1966,
     "rank": 2939,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1785,7 +1785,7 @@
     "accountGameNumber": 1967,
     "rank": 2914,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1797,7 +1797,7 @@
     "accountGameNumber": 1968,
     "rank": 2937,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1809,7 +1809,7 @@
     "accountGameNumber": 1969,
     "rank": 2961,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1821,7 +1821,7 @@
     "accountGameNumber": 1970,
     "rank": 2984,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1833,7 +1833,7 @@
     "accountGameNumber": 1971,
     "rank": 2958,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1845,7 +1845,7 @@
     "accountGameNumber": 1972,
     "rank": 2958,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1857,7 +1857,7 @@
     "accountGameNumber": 1973,
     "rank": 2979,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1869,7 +1869,7 @@
     "accountGameNumber": 1974,
     "rank": 3004,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1881,7 +1881,7 @@
     "accountGameNumber": 1975,
     "rank": 2977,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1893,7 +1893,7 @@
     "accountGameNumber": 1976,
     "rank": 2950,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1905,7 +1905,7 @@
     "accountGameNumber": 1977,
     "rank": 2927,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1917,7 +1917,7 @@
     "accountGameNumber": 1978,
     "rank": 2952,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1929,7 +1929,7 @@
     "accountGameNumber": 1979,
     "rank": 2975,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1941,7 +1941,7 @@
     "accountGameNumber": 1980,
     "rank": 2951,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1953,7 +1953,7 @@
     "accountGameNumber": 1981,
     "rank": 2933,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1965,7 +1965,7 @@
     "accountGameNumber": 1982,
     "rank": 2910,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1977,7 +1977,7 @@
     "accountGameNumber": 1983,
     "rank": 2934,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -1989,7 +1989,7 @@
     "accountGameNumber": 1984,
     "rank": 2955,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2001,7 +2001,7 @@
     "accountGameNumber": 1985,
     "rank": 2977,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2013,7 +2013,7 @@
     "accountGameNumber": 1986,
     "rank": 2953,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2025,7 +2025,7 @@
     "accountGameNumber": 1987,
     "rank": 2932,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2037,7 +2037,7 @@
     "accountGameNumber": 1988,
     "rank": 2950,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2049,7 +2049,7 @@
     "accountGameNumber": 1989,
     "rank": 2971,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2061,7 +2061,7 @@
     "accountGameNumber": 1990,
     "rank": 2993,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2073,7 +2073,7 @@
     "accountGameNumber": 1991,
     "rank": 3012,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2085,7 +2085,7 @@
     "accountGameNumber": 1992,
     "rank": 3031,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2097,7 +2097,7 @@
     "accountGameNumber": 1993,
     "rank": 3007,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2109,7 +2109,7 @@
     "accountGameNumber": 1994,
     "rank": 2983,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2121,7 +2121,7 @@
     "accountGameNumber": 1995,
     "rank": 3002,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2133,7 +2133,7 @@
     "accountGameNumber": 1996,
     "rank": 3023,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2145,7 +2145,7 @@
     "accountGameNumber": 1997,
     "rank": 2996,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2157,7 +2157,7 @@
     "accountGameNumber": 1998,
     "rank": 3020,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2169,7 +2169,7 @@
     "accountGameNumber": 1999,
     "rank": 3020,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2181,7 +2181,7 @@
     "accountGameNumber": 2000,
     "rank": 3042,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2193,7 +2193,7 @@
     "accountGameNumber": 2001,
     "rank": 3017,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2205,7 +2205,7 @@
     "accountGameNumber": 2002,
     "rank": 3037,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2217,7 +2217,7 @@
     "accountGameNumber": 2003,
     "rank": 3058,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2229,7 +2229,7 @@
     "accountGameNumber": 2004,
     "rank": 3087,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2241,7 +2241,7 @@
     "accountGameNumber": 2005,
     "rank": 3113,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2253,7 +2253,7 @@
     "accountGameNumber": 2006,
     "rank": 3113,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2265,7 +2265,7 @@
     "accountGameNumber": 2007,
     "rank": 3088,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2277,7 +2277,7 @@
     "accountGameNumber": 2008,
     "rank": 3113,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2289,7 +2289,7 @@
     "accountGameNumber": 2009,
     "rank": 3139,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2301,7 +2301,7 @@
     "accountGameNumber": 2010,
     "rank": 3163,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2313,7 +2313,7 @@
     "accountGameNumber": 2011,
     "rank": 3184,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2325,7 +2325,7 @@
     "accountGameNumber": 2012,
     "rank": 3206,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2337,7 +2337,7 @@
     "accountGameNumber": 2013,
     "rank": 3206,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2349,7 +2349,7 @@
     "accountGameNumber": 2014,
     "rank": 3182,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2361,7 +2361,7 @@
     "accountGameNumber": 2015,
     "rank": 3201,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2373,7 +2373,7 @@
     "accountGameNumber": 2016,
     "rank": 3220,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2385,7 +2385,7 @@
     "accountGameNumber": 2017,
     "rank": 3191,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2397,7 +2397,7 @@
     "accountGameNumber": 2018,
     "rank": 3164,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2409,7 +2409,7 @@
     "accountGameNumber": 2019,
     "rank": 3138,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2421,7 +2421,7 @@
     "accountGameNumber": 2020,
     "rank": 3165,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2433,7 +2433,7 @@
     "accountGameNumber": 2021,
     "rank": 3141,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2445,7 +2445,7 @@
     "accountGameNumber": 2022,
     "rank": 3167,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2457,7 +2457,7 @@
     "accountGameNumber": 2023,
     "rank": 3191,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2469,7 +2469,7 @@
     "accountGameNumber": 2024,
     "rank": 3218,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2481,7 +2481,7 @@
     "accountGameNumber": 2025,
     "rank": 3191,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2493,7 +2493,7 @@
     "accountGameNumber": 2026,
     "rank": 3167,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2505,7 +2505,7 @@
     "accountGameNumber": 2027,
     "rank": 3142,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2517,7 +2517,7 @@
     "accountGameNumber": 2028,
     "rank": 3168,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2529,7 +2529,7 @@
     "accountGameNumber": 2029,
     "rank": 3149,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2541,7 +2541,7 @@
     "accountGameNumber": 2030,
     "rank": 3167,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2553,7 +2553,7 @@
     "accountGameNumber": 2031,
     "rank": 3146,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2565,7 +2565,7 @@
     "accountGameNumber": 2032,
     "rank": 3120,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2577,7 +2577,7 @@
     "accountGameNumber": 2033,
     "rank": 3096,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2589,7 +2589,7 @@
     "accountGameNumber": 2034,
     "rank": 3119,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2601,7 +2601,7 @@
     "accountGameNumber": 2035,
     "rank": 3139,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2613,7 +2613,7 @@
     "accountGameNumber": 2036,
     "rank": 3159,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2625,7 +2625,7 @@
     "accountGameNumber": 2037,
     "rank": 3184,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2637,7 +2637,7 @@
     "accountGameNumber": 2038,
     "rank": 3156,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2649,7 +2649,7 @@
     "accountGameNumber": 2039,
     "rank": 3135,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2661,7 +2661,7 @@
     "accountGameNumber": 2040,
     "rank": 3105,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2673,7 +2673,7 @@
     "accountGameNumber": 2041,
     "rank": 3124,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2685,7 +2685,7 @@
     "accountGameNumber": 2042,
     "rank": 3094,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2697,7 +2697,7 @@
     "accountGameNumber": 2043,
     "rank": 3120,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2709,7 +2709,7 @@
     "accountGameNumber": 2044,
     "rank": 3143,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2721,7 +2721,7 @@
     "accountGameNumber": 2045,
     "rank": 3168,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2733,7 +2733,7 @@
     "accountGameNumber": 2046,
     "rank": 3189,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2745,7 +2745,7 @@
     "accountGameNumber": 2047,
     "rank": 3165,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2757,7 +2757,7 @@
     "accountGameNumber": 2048,
     "rank": 3189,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2769,7 +2769,7 @@
     "accountGameNumber": 2049,
     "rank": 3161,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2781,7 +2781,7 @@
     "accountGameNumber": 2050,
     "rank": 3135,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2793,7 +2793,7 @@
     "accountGameNumber": 2051,
     "rank": 3149,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2805,7 +2805,7 @@
     "accountGameNumber": 2052,
     "rank": 3122,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2817,7 +2817,7 @@
     "accountGameNumber": 2053,
     "rank": 3096,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2829,7 +2829,7 @@
     "accountGameNumber": 2054,
     "rank": 3068,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2841,7 +2841,7 @@
     "accountGameNumber": 2055,
     "rank": 3038,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2853,7 +2853,7 @@
     "accountGameNumber": 2056,
     "rank": 3057,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2865,7 +2865,7 @@
     "accountGameNumber": 2057,
     "rank": 3057,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2877,7 +2877,7 @@
     "accountGameNumber": 2058,
     "rank": 3081,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2889,7 +2889,7 @@
     "accountGameNumber": 2059,
     "rank": 3059,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2901,7 +2901,7 @@
     "accountGameNumber": 2060,
     "rank": 3037,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2913,7 +2913,7 @@
     "accountGameNumber": 2061,
     "rank": 3019,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2925,7 +2925,7 @@
     "accountGameNumber": 2062,
     "rank": 3036,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2937,7 +2937,7 @@
     "accountGameNumber": 2063,
     "rank": 3061,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2949,7 +2949,7 @@
     "accountGameNumber": 2064,
     "rank": 3081,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2961,7 +2961,7 @@
     "accountGameNumber": 2065,
     "rank": 3031,
     "map": "",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2973,7 +2973,7 @@
     "accountGameNumber": 2066,
     "rank": 3058,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2985,7 +2985,7 @@
     "accountGameNumber": 2067,
     "rank": 3036,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -2997,7 +2997,7 @@
     "accountGameNumber": 2068,
     "rank": 3015,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3009,7 +3009,7 @@
     "accountGameNumber": 2069,
     "rank": 3041,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3021,7 +3021,7 @@
     "accountGameNumber": 2070,
     "rank": 3070,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3033,7 +3033,7 @@
     "accountGameNumber": 2071,
     "rank": 3098,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3045,7 +3045,7 @@
     "accountGameNumber": 2072,
     "rank": 3073,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3057,7 +3057,7 @@
     "accountGameNumber": 2073,
     "rank": 3101,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3069,7 +3069,7 @@
     "accountGameNumber": 2074,
     "rank": 3078,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3081,7 +3081,7 @@
     "accountGameNumber": 2075,
     "rank": 3056,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3093,7 +3093,7 @@
     "accountGameNumber": 2076,
     "rank": 3034,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3105,7 +3105,7 @@
     "accountGameNumber": 2077,
     "rank": 3034,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3117,7 +3117,7 @@
     "accountGameNumber": 2078,
     "rank": 3060,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3129,7 +3129,7 @@
     "accountGameNumber": 2079,
     "rank": 3037,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3141,7 +3141,7 @@
     "accountGameNumber": 2080,
     "rank": 3064,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3153,7 +3153,7 @@
     "accountGameNumber": 2081,
     "rank": 3094,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3165,7 +3165,7 @@
     "accountGameNumber": 2082,
     "rank": 3114,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3177,7 +3177,7 @@
     "accountGameNumber": 2083,
     "rank": 3089,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3189,7 +3189,7 @@
     "accountGameNumber": 2084,
     "rank": 3111,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3201,7 +3201,7 @@
     "accountGameNumber": 2085,
     "rank": 3132,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3213,7 +3213,7 @@
     "accountGameNumber": 2086,
     "rank": 3154,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3225,7 +3225,7 @@
     "accountGameNumber": 2087,
     "rank": 3179,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3237,7 +3237,7 @@
     "accountGameNumber": 2088,
     "rank": 3202,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3249,7 +3249,7 @@
     "accountGameNumber": 2089,
     "rank": 3223,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3261,7 +3261,7 @@
     "accountGameNumber": 2090,
     "rank": 3199,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3273,7 +3273,7 @@
     "accountGameNumber": 2091,
     "rank": 3172,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3285,7 +3285,7 @@
     "accountGameNumber": 2092,
     "rank": 3200,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3297,7 +3297,7 @@
     "accountGameNumber": 2093,
     "rank": 3176,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3309,7 +3309,7 @@
     "accountGameNumber": 2094,
     "rank": 3197,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3321,7 +3321,7 @@
     "accountGameNumber": 2095,
     "rank": 3172,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3333,7 +3333,7 @@
     "accountGameNumber": 2096,
     "rank": 3152,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3345,7 +3345,7 @@
     "accountGameNumber": 2097,
     "rank": 3177,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3357,7 +3357,7 @@
     "accountGameNumber": 2098,
     "rank": 3200,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3369,7 +3369,7 @@
     "accountGameNumber": 2099,
     "rank": 3226,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3381,7 +3381,7 @@
     "accountGameNumber": 2100,
     "rank": 3250,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3393,7 +3393,7 @@
     "accountGameNumber": 2101,
     "rank": 3227,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3405,7 +3405,7 @@
     "accountGameNumber": 2102,
     "rank": 3200,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3417,7 +3417,7 @@
     "accountGameNumber": 2103,
     "rank": 3177,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3429,7 +3429,7 @@
     "accountGameNumber": 2104,
     "rank": 3197,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3441,7 +3441,7 @@
     "accountGameNumber": 2105,
     "rank": 3176,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3453,7 +3453,7 @@
     "accountGameNumber": 2106,
     "rank": 3151,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3465,7 +3465,7 @@
     "accountGameNumber": 2107,
     "rank": 3173,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3477,7 +3477,7 @@
     "accountGameNumber": 2108,
     "rank": 3153,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3489,7 +3489,7 @@
     "accountGameNumber": 2109,
     "rank": 3129,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3501,7 +3501,7 @@
     "accountGameNumber": 2110,
     "rank": 3104,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3513,7 +3513,7 @@
     "accountGameNumber": 2111,
     "rank": 3127,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3525,7 +3525,7 @@
     "accountGameNumber": 2112,
     "rank": 3103,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3537,7 +3537,7 @@
     "accountGameNumber": 2113,
     "rank": 3082,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3549,7 +3549,7 @@
     "accountGameNumber": 2114,
     "rank": 3059,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3561,7 +3561,7 @@
     "accountGameNumber": 2115,
     "rank": 3078,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3573,7 +3573,7 @@
     "accountGameNumber": 2116,
     "rank": 3102,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3585,7 +3585,7 @@
     "accountGameNumber": 2117,
     "rank": 3125,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3597,7 +3597,7 @@
     "accountGameNumber": 2118,
     "rank": 3150,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3609,7 +3609,7 @@
     "accountGameNumber": 2119,
     "rank": 3126,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3621,7 +3621,7 @@
     "accountGameNumber": 2120,
     "rank": 3104,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3633,7 +3633,7 @@
     "accountGameNumber": 2121,
     "rank": 3083,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3645,7 +3645,7 @@
     "accountGameNumber": 2122,
     "rank": 3058,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3657,7 +3657,7 @@
     "accountGameNumber": 2123,
     "rank": 3028,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3669,7 +3669,7 @@
     "accountGameNumber": 2124,
     "rank": 3003,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3681,7 +3681,7 @@
     "accountGameNumber": 2125,
     "rank": 2980,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3693,7 +3693,7 @@
     "accountGameNumber": 2126,
     "rank": 3003,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3705,7 +3705,7 @@
     "accountGameNumber": 2127,
     "rank": 3023,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3717,7 +3717,7 @@
     "accountGameNumber": 2128,
     "rank": 3041,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3729,7 +3729,7 @@
     "accountGameNumber": 2129,
     "rank": 3060,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3741,7 +3741,7 @@
     "accountGameNumber": 2130,
     "rank": 3038,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3753,7 +3753,7 @@
     "accountGameNumber": 2131,
     "rank": 3060,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3765,7 +3765,7 @@
     "accountGameNumber": 2132,
     "rank": 3084,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3777,7 +3777,7 @@
     "accountGameNumber": 2133,
     "rank": 3059,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3789,7 +3789,7 @@
     "accountGameNumber": 2134,
     "rank": 3082,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3801,7 +3801,7 @@
     "accountGameNumber": 2135,
     "rank": 3061,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3813,7 +3813,7 @@
     "accountGameNumber": 2136,
     "rank": 3037,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3825,7 +3825,7 @@
     "accountGameNumber": 2137,
     "rank": 3061,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3837,7 +3837,7 @@
     "accountGameNumber": 2138,
     "rank": 3082,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3849,7 +3849,7 @@
     "accountGameNumber": 2139,
     "rank": 3055,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3861,7 +3861,7 @@
     "accountGameNumber": 2140,
     "rank": 3033,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3873,7 +3873,7 @@
     "accountGameNumber": 2141,
     "rank": 3054,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3885,7 +3885,7 @@
     "accountGameNumber": 2142,
     "rank": 3027,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3897,7 +3897,7 @@
     "accountGameNumber": 2143,
     "rank": 3051,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3909,7 +3909,7 @@
     "accountGameNumber": 2144,
     "rank": 3075,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3921,7 +3921,7 @@
     "accountGameNumber": 2145,
     "rank": 3103,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3933,7 +3933,7 @@
     "accountGameNumber": 2146,
     "rank": 3123,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3945,7 +3945,7 @@
     "accountGameNumber": 2147,
     "rank": 3148,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3957,7 +3957,7 @@
     "accountGameNumber": 2148,
     "rank": 3121,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3969,7 +3969,7 @@
     "accountGameNumber": 2149,
     "rank": 3094,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3981,7 +3981,7 @@
     "accountGameNumber": 2150,
     "rank": 3065,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -3993,7 +3993,7 @@
     "accountGameNumber": 2151,
     "rank": 3084,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4005,7 +4005,7 @@
     "accountGameNumber": 2152,
     "rank": 3061,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4017,7 +4017,7 @@
     "accountGameNumber": 2153,
     "rank": 3091,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4029,7 +4029,7 @@
     "accountGameNumber": 2154,
     "rank": 3111,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4041,7 +4041,7 @@
     "accountGameNumber": 2155,
     "rank": 3089,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4053,7 +4053,7 @@
     "accountGameNumber": 2156,
     "rank": 3062,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4065,7 +4065,7 @@
     "accountGameNumber": 2157,
     "rank": 3037,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4077,7 +4077,7 @@
     "accountGameNumber": 2158,
     "rank": 3061,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4089,7 +4089,7 @@
     "accountGameNumber": 2159,
     "rank": 3038,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4101,7 +4101,7 @@
     "accountGameNumber": 2160,
     "rank": 3014,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4113,7 +4113,7 @@
     "accountGameNumber": 2161,
     "rank": 3014,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4125,7 +4125,7 @@
     "accountGameNumber": 2162,
     "rank": 3038,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4137,7 +4137,7 @@
     "accountGameNumber": 2163,
     "rank": 3016,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4149,7 +4149,7 @@
     "accountGameNumber": 2164,
     "rank": 2992,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4161,7 +4161,7 @@
     "accountGameNumber": 2165,
     "rank": 2970,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4173,7 +4173,7 @@
     "accountGameNumber": 2166,
     "rank": 2946,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4185,7 +4185,7 @@
     "accountGameNumber": 2167,
     "rank": 2969,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4197,7 +4197,7 @@
     "accountGameNumber": 2168,
     "rank": 2989,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4209,7 +4209,7 @@
     "accountGameNumber": 2169,
     "rank": 2967,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4221,7 +4221,7 @@
     "accountGameNumber": 2170,
     "rank": 2943,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4233,7 +4233,7 @@
     "accountGameNumber": 2171,
     "rank": 2970,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4245,7 +4245,7 @@
     "accountGameNumber": 2172,
     "rank": 3000,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4257,7 +4257,7 @@
     "accountGameNumber": 2173,
     "rank": 3022,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4269,7 +4269,7 @@
     "accountGameNumber": 2174,
     "rank": 3049,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4281,7 +4281,7 @@
     "accountGameNumber": 2175,
     "rank": 3021,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4293,7 +4293,7 @@
     "accountGameNumber": 2176,
     "rank": 2993,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4305,7 +4305,7 @@
     "accountGameNumber": 2177,
     "rank": 3016,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4317,7 +4317,7 @@
     "accountGameNumber": 2178,
     "rank": 3042,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4328,8 +4328,8 @@
     "seasonGameNumber": 1,
     "accountGameNumber": 2179,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4340,8 +4340,8 @@
     "seasonGameNumber": 2,
     "accountGameNumber": 2180,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4352,8 +4352,8 @@
     "seasonGameNumber": 3,
     "accountGameNumber": 2181,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4364,8 +4364,8 @@
     "seasonGameNumber": 4,
     "accountGameNumber": 2182,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4376,8 +4376,8 @@
     "seasonGameNumber": 5,
     "accountGameNumber": 2183,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4388,8 +4388,8 @@
     "seasonGameNumber": 6,
     "accountGameNumber": 2184,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4400,8 +4400,8 @@
     "seasonGameNumber": 7,
     "accountGameNumber": 2185,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4412,8 +4412,8 @@
     "seasonGameNumber": 8,
     "accountGameNumber": 2186,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4424,8 +4424,8 @@
     "seasonGameNumber": 9,
     "accountGameNumber": 2187,
     "rank": 3042,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4436,8 +4436,8 @@
     "seasonGameNumber": 10,
     "accountGameNumber": 2188,
     "rank": 2982,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4449,7 +4449,7 @@
     "accountGameNumber": 2189,
     "rank": 2956,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4461,7 +4461,7 @@
     "accountGameNumber": 2190,
     "rank": 2931,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4473,7 +4473,7 @@
     "accountGameNumber": 2191,
     "rank": 2906,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4485,7 +4485,7 @@
     "accountGameNumber": 2192,
     "rank": 2930,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4497,7 +4497,7 @@
     "accountGameNumber": 2193,
     "rank": 2904,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4509,7 +4509,7 @@
     "accountGameNumber": 2194,
     "rank": 2930,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4521,7 +4521,7 @@
     "accountGameNumber": 2195,
     "rank": 2955,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4533,7 +4533,7 @@
     "accountGameNumber": 2196,
     "rank": 2938,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4545,7 +4545,7 @@
     "accountGameNumber": 2197,
     "rank": 2957,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4557,7 +4557,7 @@
     "accountGameNumber": 2198,
     "rank": 2984,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4569,7 +4569,7 @@
     "accountGameNumber": 2199,
     "rank": 3004,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4581,7 +4581,7 @@
     "accountGameNumber": 2200,
     "rank": 3025,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4593,7 +4593,7 @@
     "accountGameNumber": 2201,
     "rank": 3000,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4605,7 +4605,7 @@
     "accountGameNumber": 2202,
     "rank": 3024,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4617,7 +4617,7 @@
     "accountGameNumber": 2203,
     "rank": 3046,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4629,7 +4629,7 @@
     "accountGameNumber": 2204,
     "rank": 3071,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4641,7 +4641,7 @@
     "accountGameNumber": 2205,
     "rank": 3091,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4653,7 +4653,7 @@
     "accountGameNumber": 2206,
     "rank": 3063,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4665,7 +4665,7 @@
     "accountGameNumber": 2207,
     "rank": 3038,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4677,7 +4677,7 @@
     "accountGameNumber": 2208,
     "rank": 3014,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4689,7 +4689,7 @@
     "accountGameNumber": 2209,
     "rank": 3037,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4701,7 +4701,7 @@
     "accountGameNumber": 2210,
     "rank": 3014,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4713,7 +4713,7 @@
     "accountGameNumber": 2211,
     "rank": 3040,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4725,7 +4725,7 @@
     "accountGameNumber": 2212,
     "rank": 3007,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4737,7 +4737,7 @@
     "accountGameNumber": 2213,
     "rank": 3033,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4749,7 +4749,7 @@
     "accountGameNumber": 2214,
     "rank": 3058,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4761,7 +4761,7 @@
     "accountGameNumber": 2215,
     "rank": 3083,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4773,7 +4773,7 @@
     "accountGameNumber": 2216,
     "rank": 3060,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4785,7 +4785,7 @@
     "accountGameNumber": 2217,
     "rank": 3036,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4797,7 +4797,7 @@
     "accountGameNumber": 2218,
     "rank": 3036,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4809,7 +4809,7 @@
     "accountGameNumber": 2219,
     "rank": 3011,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4821,7 +4821,7 @@
     "accountGameNumber": 2220,
     "rank": 2982,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4833,7 +4833,7 @@
     "accountGameNumber": 2221,
     "rank": 3004,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4845,7 +4845,7 @@
     "accountGameNumber": 2222,
     "rank": 2983,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4857,7 +4857,7 @@
     "accountGameNumber": 2223,
     "rank": 2962,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4869,7 +4869,7 @@
     "accountGameNumber": 2224,
     "rank": 2936,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4881,7 +4881,7 @@
     "accountGameNumber": 2225,
     "rank": 2965,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4893,7 +4893,7 @@
     "accountGameNumber": 2226,
     "rank": 2993,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4905,7 +4905,7 @@
     "accountGameNumber": 2227,
     "rank": 3017,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4917,7 +4917,7 @@
     "accountGameNumber": 2228,
     "rank": 2994,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4929,7 +4929,7 @@
     "accountGameNumber": 2229,
     "rank": 3017,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4941,7 +4941,7 @@
     "accountGameNumber": 2230,
     "rank": 3017,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4953,7 +4953,7 @@
     "accountGameNumber": 2231,
     "rank": 3037,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4965,7 +4965,7 @@
     "accountGameNumber": 2232,
     "rank": 3061,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4977,7 +4977,7 @@
     "accountGameNumber": 2233,
     "rank": 3040,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -4989,7 +4989,7 @@
     "accountGameNumber": 2234,
     "rank": 3065,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5001,7 +5001,7 @@
     "accountGameNumber": 2235,
     "rank": 3092,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5013,7 +5013,7 @@
     "accountGameNumber": 2236,
     "rank": 3067,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5025,7 +5025,7 @@
     "accountGameNumber": 2237,
     "rank": 3041,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5037,7 +5037,7 @@
     "accountGameNumber": 2238,
     "rank": 3019,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5049,7 +5049,7 @@
     "accountGameNumber": 2239,
     "rank": 2993,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5061,7 +5061,7 @@
     "accountGameNumber": 2240,
     "rank": 2966,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5073,7 +5073,7 @@
     "accountGameNumber": 2241,
     "rank": 2988,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5085,7 +5085,7 @@
     "accountGameNumber": 2242,
     "rank": 2964,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5097,7 +5097,7 @@
     "accountGameNumber": 2243,
     "rank": 2939,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5109,7 +5109,7 @@
     "accountGameNumber": 2244,
     "rank": 2910,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5121,7 +5121,7 @@
     "accountGameNumber": 2245,
     "rank": 2943,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5133,7 +5133,7 @@
     "accountGameNumber": 2246,
     "rank": 2965,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5145,7 +5145,7 @@
     "accountGameNumber": 2247,
     "rank": 2991,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5157,7 +5157,7 @@
     "accountGameNumber": 2248,
     "rank": 3018,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5169,7 +5169,7 @@
     "accountGameNumber": 2249,
     "rank": 3046,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5181,7 +5181,7 @@
     "accountGameNumber": 2250,
     "rank": 3071,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5193,7 +5193,7 @@
     "accountGameNumber": 2251,
     "rank": 3071,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5205,7 +5205,7 @@
     "accountGameNumber": 2252,
     "rank": 3051,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5217,7 +5217,7 @@
     "accountGameNumber": 2253,
     "rank": 3051,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5229,7 +5229,7 @@
     "accountGameNumber": 2254,
     "rank": 3075,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5241,7 +5241,7 @@
     "accountGameNumber": 2255,
     "rank": 3052,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5253,7 +5253,7 @@
     "accountGameNumber": 2256,
     "rank": 3075,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5265,7 +5265,7 @@
     "accountGameNumber": 2257,
     "rank": 3075,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5277,7 +5277,7 @@
     "accountGameNumber": 2258,
     "rank": 3054,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5289,7 +5289,7 @@
     "accountGameNumber": 2259,
     "rank": 3032,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5301,7 +5301,7 @@
     "accountGameNumber": 2260,
     "rank": 3058,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5313,7 +5313,7 @@
     "accountGameNumber": 2261,
     "rank": 3082,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5325,7 +5325,7 @@
     "accountGameNumber": 2262,
     "rank": 3106,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5337,7 +5337,7 @@
     "accountGameNumber": 2263,
     "rank": 3079,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5349,7 +5349,7 @@
     "accountGameNumber": 2264,
     "rank": 3056,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5361,7 +5361,7 @@
     "accountGameNumber": 2265,
     "rank": 3076,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5373,7 +5373,7 @@
     "accountGameNumber": 2266,
     "rank": 3051,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5385,7 +5385,7 @@
     "accountGameNumber": 2267,
     "rank": 3075,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5397,7 +5397,7 @@
     "accountGameNumber": 2268,
     "rank": 3055,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5409,7 +5409,7 @@
     "accountGameNumber": 2269,
     "rank": 3028,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5421,7 +5421,7 @@
     "accountGameNumber": 2270,
     "rank": 3028,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5433,7 +5433,7 @@
     "accountGameNumber": 2271,
     "rank": 3004,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5445,7 +5445,7 @@
     "accountGameNumber": 2272,
     "rank": 3023,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5457,7 +5457,7 @@
     "accountGameNumber": 2273,
     "rank": 3000,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5469,7 +5469,7 @@
     "accountGameNumber": 2274,
     "rank": 2978,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5481,7 +5481,7 @@
     "accountGameNumber": 2275,
     "rank": 2959,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5493,7 +5493,7 @@
     "accountGameNumber": 2276,
     "rank": 2959,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5505,7 +5505,7 @@
     "accountGameNumber": 2277,
     "rank": 2932,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5517,7 +5517,7 @@
     "accountGameNumber": 2278,
     "rank": 2912,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5529,7 +5529,7 @@
     "accountGameNumber": 2279,
     "rank": 2932,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5541,7 +5541,7 @@
     "accountGameNumber": 2280,
     "rank": 2954,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5553,7 +5553,7 @@
     "accountGameNumber": 2281,
     "rank": 2979,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5565,7 +5565,7 @@
     "accountGameNumber": 2282,
     "rank": 2956,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5577,7 +5577,7 @@
     "accountGameNumber": 2283,
     "rank": 2935,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5589,7 +5589,7 @@
     "accountGameNumber": 2284,
     "rank": 2958,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5601,7 +5601,7 @@
     "accountGameNumber": 2285,
     "rank": 2987,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5613,7 +5613,7 @@
     "accountGameNumber": 2286,
     "rank": 2987,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5625,7 +5625,7 @@
     "accountGameNumber": 2287,
     "rank": 3011,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5637,7 +5637,7 @@
     "accountGameNumber": 2288,
     "rank": 3034,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5649,7 +5649,7 @@
     "accountGameNumber": 2289,
     "rank": 3008,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5661,7 +5661,7 @@
     "accountGameNumber": 2290,
     "rank": 2984,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5673,7 +5673,7 @@
     "accountGameNumber": 2291,
     "rank": 2960,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5685,7 +5685,7 @@
     "accountGameNumber": 2292,
     "rank": 2983,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5697,7 +5697,7 @@
     "accountGameNumber": 2293,
     "rank": 2964,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5709,7 +5709,7 @@
     "accountGameNumber": 2294,
     "rank": 2987,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5721,7 +5721,7 @@
     "accountGameNumber": 2295,
     "rank": 3010,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5733,7 +5733,7 @@
     "accountGameNumber": 2296,
     "rank": 3036,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5745,7 +5745,7 @@
     "accountGameNumber": 2297,
     "rank": 3060,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5757,7 +5757,7 @@
     "accountGameNumber": 2298,
     "rank": 3035,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5769,7 +5769,7 @@
     "accountGameNumber": 2299,
     "rank": 3016,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5781,7 +5781,7 @@
     "accountGameNumber": 2300,
     "rank": 3040,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5793,7 +5793,7 @@
     "accountGameNumber": 2301,
     "rank": 3014,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5804,8 +5804,8 @@
     "seasonGameNumber": 1,
     "accountGameNumber": 2302,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5816,8 +5816,8 @@
     "seasonGameNumber": 2,
     "accountGameNumber": 2303,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5828,8 +5828,8 @@
     "seasonGameNumber": 3,
     "accountGameNumber": 2304,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5840,8 +5840,8 @@
     "seasonGameNumber": 4,
     "accountGameNumber": 2305,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5852,8 +5852,8 @@
     "seasonGameNumber": 5,
     "accountGameNumber": 2306,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5864,8 +5864,8 @@
     "seasonGameNumber": 6,
     "accountGameNumber": 2307,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5876,8 +5876,8 @@
     "seasonGameNumber": 7,
     "accountGameNumber": 2308,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5888,8 +5888,8 @@
     "seasonGameNumber": 8,
     "accountGameNumber": 2309,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5900,8 +5900,8 @@
     "seasonGameNumber": 9,
     "accountGameNumber": 2310,
     "rank": 3014,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5912,8 +5912,8 @@
     "seasonGameNumber": 10,
     "accountGameNumber": 2311,
     "rank": 3010,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5925,7 +5925,7 @@
     "accountGameNumber": 2312,
     "rank": 2989,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5937,7 +5937,7 @@
     "accountGameNumber": 2313,
     "rank": 2967,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5949,7 +5949,7 @@
     "accountGameNumber": 2314,
     "rank": 2945,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5961,7 +5961,7 @@
     "accountGameNumber": 2315,
     "rank": 2921,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5973,7 +5973,7 @@
     "accountGameNumber": 2316,
     "rank": 2944,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5985,7 +5985,7 @@
     "accountGameNumber": 2317,
     "rank": 2968,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -5997,7 +5997,7 @@
     "accountGameNumber": 2318,
     "rank": 2992,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6009,7 +6009,7 @@
     "accountGameNumber": 2319,
     "rank": 3016,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6021,7 +6021,7 @@
     "accountGameNumber": 2320,
     "rank": 3041,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6033,7 +6033,7 @@
     "accountGameNumber": 2321,
     "rank": 3066,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6045,7 +6045,7 @@
     "accountGameNumber": 2322,
     "rank": 3043,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6057,7 +6057,7 @@
     "accountGameNumber": 2323,
     "rank": 3066,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6069,7 +6069,7 @@
     "accountGameNumber": 2324,
     "rank": 3042,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6081,7 +6081,7 @@
     "accountGameNumber": 2325,
     "rank": 3065,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6093,7 +6093,7 @@
     "accountGameNumber": 2326,
     "rank": 3041,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6105,7 +6105,7 @@
     "accountGameNumber": 2327,
     "rank": 3064,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6117,7 +6117,7 @@
     "accountGameNumber": 2328,
     "rank": 3085,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6129,7 +6129,7 @@
     "accountGameNumber": 2329,
     "rank": 3108,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6141,7 +6141,7 @@
     "accountGameNumber": 2330,
     "rank": 3131,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6153,7 +6153,7 @@
     "accountGameNumber": 2331,
     "rank": 3107,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6165,7 +6165,7 @@
     "accountGameNumber": 2332,
     "rank": 3107,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6177,7 +6177,7 @@
     "accountGameNumber": 2333,
     "rank": 3084,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6189,7 +6189,7 @@
     "accountGameNumber": 2334,
     "rank": 3060,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6201,7 +6201,7 @@
     "accountGameNumber": 2335,
     "rank": 3084,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6213,7 +6213,7 @@
     "accountGameNumber": 2336,
     "rank": 3060,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6225,7 +6225,7 @@
     "accountGameNumber": 2337,
     "rank": 3036,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6237,7 +6237,7 @@
     "accountGameNumber": 2338,
     "rank": 3060,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6249,7 +6249,7 @@
     "accountGameNumber": 2339,
     "rank": 3084,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6261,7 +6261,7 @@
     "accountGameNumber": 2340,
     "rank": 3107,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6273,7 +6273,7 @@
     "accountGameNumber": 2341,
     "rank": 3131,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6285,7 +6285,7 @@
     "accountGameNumber": 2342,
     "rank": 3155,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6297,7 +6297,7 @@
     "accountGameNumber": 2343,
     "rank": 3179,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6309,7 +6309,7 @@
     "accountGameNumber": 2344,
     "rank": 3203,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6321,7 +6321,7 @@
     "accountGameNumber": 2345,
     "rank": 3226,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6333,7 +6333,7 @@
     "accountGameNumber": 2346,
     "rank": 3251,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6345,7 +6345,7 @@
     "accountGameNumber": 2347,
     "rank": 3275,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6357,7 +6357,7 @@
     "accountGameNumber": 2348,
     "rank": 3299,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6369,7 +6369,7 @@
     "accountGameNumber": 2349,
     "rank": 3323,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6381,7 +6381,7 @@
     "accountGameNumber": 2350,
     "rank": 3347,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6393,7 +6393,7 @@
     "accountGameNumber": 2351,
     "rank": 3323,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6405,7 +6405,7 @@
     "accountGameNumber": 2352,
     "rank": 3299,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6417,7 +6417,7 @@
     "accountGameNumber": 2353,
     "rank": 3275,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6429,7 +6429,7 @@
     "accountGameNumber": 2354,
     "rank": 3251,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6441,7 +6441,7 @@
     "accountGameNumber": 2355,
     "rank": 3251,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6453,7 +6453,7 @@
     "accountGameNumber": 2356,
     "rank": 3227,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6465,7 +6465,7 @@
     "accountGameNumber": 2357,
     "rank": 3203,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6477,7 +6477,7 @@
     "accountGameNumber": 2358,
     "rank": 3179,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6489,7 +6489,7 @@
     "accountGameNumber": 2359,
     "rank": 3155,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6501,7 +6501,7 @@
     "accountGameNumber": 2360,
     "rank": 3130,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6513,7 +6513,7 @@
     "accountGameNumber": 2361,
     "rank": 3106,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6525,7 +6525,7 @@
     "accountGameNumber": 2362,
     "rank": 3130,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6537,7 +6537,7 @@
     "accountGameNumber": 2363,
     "rank": 3106,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6549,7 +6549,7 @@
     "accountGameNumber": 2364,
     "rank": 3130,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6561,7 +6561,7 @@
     "accountGameNumber": 2365,
     "rank": 3106,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6573,7 +6573,7 @@
     "accountGameNumber": 2366,
     "rank": 3130,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6585,7 +6585,7 @@
     "accountGameNumber": 2367,
     "rank": 3154,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6597,7 +6597,7 @@
     "accountGameNumber": 2368,
     "rank": 3130,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6609,7 +6609,7 @@
     "accountGameNumber": 2369,
     "rank": 3107,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6621,7 +6621,7 @@
     "accountGameNumber": 2370,
     "rank": 3083,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6633,7 +6633,7 @@
     "accountGameNumber": 2371,
     "rank": 3083,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6645,7 +6645,7 @@
     "accountGameNumber": 2372,
     "rank": 3107,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6657,7 +6657,7 @@
     "accountGameNumber": 2373,
     "rank": 3083,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6669,7 +6669,7 @@
     "accountGameNumber": 2374,
     "rank": 3107,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6681,7 +6681,7 @@
     "accountGameNumber": 2375,
     "rank": 3107,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6693,7 +6693,7 @@
     "accountGameNumber": 2376,
     "rank": 3084,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6705,7 +6705,7 @@
     "accountGameNumber": 2377,
     "rank": 3060,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6717,7 +6717,7 @@
     "accountGameNumber": 2378,
     "rank": 3036,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6729,7 +6729,7 @@
     "accountGameNumber": 2379,
     "rank": 3059,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6741,7 +6741,7 @@
     "accountGameNumber": 2380,
     "rank": 3037,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6753,7 +6753,7 @@
     "accountGameNumber": 2381,
     "rank": 3063,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6765,7 +6765,7 @@
     "accountGameNumber": 2382,
     "rank": 3085,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6777,7 +6777,7 @@
     "accountGameNumber": 2383,
     "rank": 3109,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6789,7 +6789,7 @@
     "accountGameNumber": 2384,
     "rank": 3084,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6801,7 +6801,7 @@
     "accountGameNumber": 2385,
     "rank": 3107,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6813,7 +6813,7 @@
     "accountGameNumber": 2386,
     "rank": 3131,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6825,7 +6825,7 @@
     "accountGameNumber": 2387,
     "rank": 3107,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6837,7 +6837,7 @@
     "accountGameNumber": 2388,
     "rank": 3084,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6849,7 +6849,7 @@
     "accountGameNumber": 2389,
     "rank": 3108,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6861,7 +6861,7 @@
     "accountGameNumber": 2390,
     "rank": 3131,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6873,7 +6873,7 @@
     "accountGameNumber": 2391,
     "rank": 3155,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6885,7 +6885,7 @@
     "accountGameNumber": 2392,
     "rank": 3179,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6897,7 +6897,7 @@
     "accountGameNumber": 2393,
     "rank": 3203,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6909,7 +6909,7 @@
     "accountGameNumber": 2394,
     "rank": 3227,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6921,7 +6921,7 @@
     "accountGameNumber": 2395,
     "rank": 3202,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6933,7 +6933,7 @@
     "accountGameNumber": 2396,
     "rank": 3178,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6945,7 +6945,7 @@
     "accountGameNumber": 2397,
     "rank": 3201,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6957,7 +6957,7 @@
     "accountGameNumber": 2398,
     "rank": 3226,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6969,7 +6969,7 @@
     "accountGameNumber": 2399,
     "rank": 3201,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6981,7 +6981,7 @@
     "accountGameNumber": 2400,
     "rank": 3225,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -6993,7 +6993,7 @@
     "accountGameNumber": 2401,
     "rank": 3249,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7005,7 +7005,7 @@
     "accountGameNumber": 2402,
     "rank": 3225,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7017,7 +7017,7 @@
     "accountGameNumber": 2403,
     "rank": 3249,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7029,7 +7029,7 @@
     "accountGameNumber": 2404,
     "rank": 3273,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7041,7 +7041,7 @@
     "accountGameNumber": 2405,
     "rank": 3296,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7053,7 +7053,7 @@
     "accountGameNumber": 2406,
     "rank": 3319,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7065,7 +7065,7 @@
     "accountGameNumber": 2407,
     "rank": 3343,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7077,7 +7077,7 @@
     "accountGameNumber": 2408,
     "rank": 3320,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7089,7 +7089,7 @@
     "accountGameNumber": 2409,
     "rank": 3296,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7101,7 +7101,7 @@
     "accountGameNumber": 2410,
     "rank": 3320,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7113,7 +7113,7 @@
     "accountGameNumber": 2411,
     "rank": 3343,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7125,7 +7125,7 @@
     "accountGameNumber": 2412,
     "rank": 3365,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7137,7 +7137,7 @@
     "accountGameNumber": 2413,
     "rank": 3388,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7149,7 +7149,7 @@
     "accountGameNumber": 2414,
     "rank": 3363,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7161,7 +7161,7 @@
     "accountGameNumber": 2415,
     "rank": 3339,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7173,7 +7173,7 @@
     "accountGameNumber": 2416,
     "rank": 3361,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7185,7 +7185,7 @@
     "accountGameNumber": 2417,
     "rank": 3384,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7197,7 +7197,7 @@
     "accountGameNumber": 2418,
     "rank": 3407,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7209,7 +7209,7 @@
     "accountGameNumber": 2419,
     "rank": 3381,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7221,7 +7221,7 @@
     "accountGameNumber": 2420,
     "rank": 3357,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7233,7 +7233,7 @@
     "accountGameNumber": 2421,
     "rank": 3334,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7245,7 +7245,7 @@
     "accountGameNumber": 2422,
     "rank": 3358,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7257,7 +7257,7 @@
     "accountGameNumber": 2423,
     "rank": 3334,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7269,7 +7269,7 @@
     "accountGameNumber": 2424,
     "rank": 3359,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7281,7 +7281,7 @@
     "accountGameNumber": 2425,
     "rank": 3382,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7293,7 +7293,7 @@
     "accountGameNumber": 2426,
     "rank": 3358,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7305,7 +7305,7 @@
     "accountGameNumber": 2427,
     "rank": 3334,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7317,7 +7317,7 @@
     "accountGameNumber": 2428,
     "rank": 3311,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7328,8 +7328,8 @@
     "seasonGameNumber": 1,
     "accountGameNumber": 2429,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7340,8 +7340,8 @@
     "seasonGameNumber": 2,
     "accountGameNumber": 2430,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7352,8 +7352,8 @@
     "seasonGameNumber": 3,
     "accountGameNumber": 2431,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7364,8 +7364,8 @@
     "seasonGameNumber": 4,
     "accountGameNumber": 2432,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7376,8 +7376,8 @@
     "seasonGameNumber": 5,
     "accountGameNumber": 2433,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7388,8 +7388,8 @@
     "seasonGameNumber": 6,
     "accountGameNumber": 2434,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7400,8 +7400,8 @@
     "seasonGameNumber": 7,
     "accountGameNumber": 2435,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7412,8 +7412,8 @@
     "seasonGameNumber": 8,
     "accountGameNumber": 2436,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7424,8 +7424,8 @@
     "seasonGameNumber": 9,
     "accountGameNumber": 2437,
     "rank": 3311,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7436,8 +7436,8 @@
     "seasonGameNumber": 10,
     "accountGameNumber": 2438,
     "rank": 3142,
-    "map": "Placements",
-    "isPlacement": "TRUE"
+    "map": "Placement",
+    "isPlacement": true
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7449,7 +7449,7 @@
     "accountGameNumber": 2439,
     "rank": 3118,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7461,7 +7461,7 @@
     "accountGameNumber": 2440,
     "rank": 3142,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7473,7 +7473,7 @@
     "accountGameNumber": 2441,
     "rank": 3166,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7485,7 +7485,7 @@
     "accountGameNumber": 2442,
     "rank": 3191,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7497,7 +7497,7 @@
     "accountGameNumber": 2443,
     "rank": 3167,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7509,7 +7509,7 @@
     "accountGameNumber": 2444,
     "rank": 3191,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7521,7 +7521,7 @@
     "accountGameNumber": 2445,
     "rank": 3167,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7533,7 +7533,7 @@
     "accountGameNumber": 2446,
     "rank": 3144,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7545,7 +7545,7 @@
     "accountGameNumber": 2447,
     "rank": 3167,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7557,7 +7557,7 @@
     "accountGameNumber": 2448,
     "rank": 3144,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7569,7 +7569,7 @@
     "accountGameNumber": 2449,
     "rank": 3168,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7581,7 +7581,7 @@
     "accountGameNumber": 2450,
     "rank": 3191,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7593,7 +7593,7 @@
     "accountGameNumber": 2451,
     "rank": 3167,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7605,7 +7605,7 @@
     "accountGameNumber": 2452,
     "rank": 3192,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7617,7 +7617,7 @@
     "accountGameNumber": 2453,
     "rank": 3168,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7629,7 +7629,7 @@
     "accountGameNumber": 2454,
     "rank": 3145,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7641,7 +7641,7 @@
     "accountGameNumber": 2455,
     "rank": 3168,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7653,7 +7653,7 @@
     "accountGameNumber": 2456,
     "rank": 3193,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7665,7 +7665,7 @@
     "accountGameNumber": 2457,
     "rank": 3169,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7677,7 +7677,7 @@
     "accountGameNumber": 2458,
     "rank": 3193,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7689,7 +7689,7 @@
     "accountGameNumber": 2459,
     "rank": 3216,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7701,7 +7701,7 @@
     "accountGameNumber": 2460,
     "rank": 3240,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7713,7 +7713,7 @@
     "accountGameNumber": 2461,
     "rank": 3216,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7725,7 +7725,7 @@
     "accountGameNumber": 2462,
     "rank": 3240,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7737,7 +7737,7 @@
     "accountGameNumber": 2463,
     "rank": 3216,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7749,7 +7749,7 @@
     "accountGameNumber": 2464,
     "rank": 3191,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7761,7 +7761,7 @@
     "accountGameNumber": 2465,
     "rank": 3216,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7773,7 +7773,7 @@
     "accountGameNumber": 2466,
     "rank": 3193,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7785,7 +7785,7 @@
     "accountGameNumber": 2467,
     "rank": 3170,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7797,7 +7797,7 @@
     "accountGameNumber": 2468,
     "rank": 3147,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7809,7 +7809,7 @@
     "accountGameNumber": 2469,
     "rank": 3171,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7821,7 +7821,7 @@
     "accountGameNumber": 2470,
     "rank": 3195,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7833,7 +7833,7 @@
     "accountGameNumber": 2471,
     "rank": 3219,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7845,7 +7845,7 @@
     "accountGameNumber": 2472,
     "rank": 3195,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7857,7 +7857,7 @@
     "accountGameNumber": 2473,
     "rank": 3219,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7869,7 +7869,7 @@
     "accountGameNumber": 2474,
     "rank": 3243,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7881,7 +7881,7 @@
     "accountGameNumber": 2475,
     "rank": 3265,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7893,7 +7893,7 @@
     "accountGameNumber": 2476,
     "rank": 3240,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7905,7 +7905,7 @@
     "accountGameNumber": 2477,
     "rank": 3265,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7917,7 +7917,7 @@
     "accountGameNumber": 2478,
     "rank": 3289,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7929,7 +7929,7 @@
     "accountGameNumber": 2479,
     "rank": 3289,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7941,7 +7941,7 @@
     "accountGameNumber": 2480,
     "rank": 3313,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7953,7 +7953,7 @@
     "accountGameNumber": 2481,
     "rank": 3336,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7965,7 +7965,7 @@
     "accountGameNumber": 2482,
     "rank": 3312,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7977,7 +7977,7 @@
     "accountGameNumber": 2483,
     "rank": 3288,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -7989,7 +7989,7 @@
     "accountGameNumber": 2484,
     "rank": 3313,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8001,7 +8001,7 @@
     "accountGameNumber": 2485,
     "rank": 3289,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8013,7 +8013,7 @@
     "accountGameNumber": 2486,
     "rank": 3265,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8025,7 +8025,7 @@
     "accountGameNumber": 2487,
     "rank": 3241,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8037,7 +8037,7 @@
     "accountGameNumber": 2488,
     "rank": 3217,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8049,7 +8049,7 @@
     "accountGameNumber": 2489,
     "rank": 3241,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8061,7 +8061,7 @@
     "accountGameNumber": 2490,
     "rank": 3217,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8073,7 +8073,7 @@
     "accountGameNumber": 2491,
     "rank": 3193,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8085,7 +8085,7 @@
     "accountGameNumber": 2492,
     "rank": 3217,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8097,7 +8097,7 @@
     "accountGameNumber": 2493,
     "rank": 3193,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8109,7 +8109,7 @@
     "accountGameNumber": 2494,
     "rank": 3217,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8121,7 +8121,7 @@
     "accountGameNumber": 2495,
     "rank": 3241,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8133,7 +8133,7 @@
     "accountGameNumber": 2496,
     "rank": 3266,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8145,7 +8145,7 @@
     "accountGameNumber": 2497,
     "rank": 3242,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8157,7 +8157,7 @@
     "accountGameNumber": 2498,
     "rank": 3218,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8169,7 +8169,7 @@
     "accountGameNumber": 2499,
     "rank": 3243,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8181,7 +8181,7 @@
     "accountGameNumber": 2500,
     "rank": 3267,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8193,7 +8193,7 @@
     "accountGameNumber": 2501,
     "rank": 3243,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8205,7 +8205,7 @@
     "accountGameNumber": 2502,
     "rank": 3219,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8217,7 +8217,7 @@
     "accountGameNumber": 2503,
     "rank": 3243,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8229,7 +8229,7 @@
     "accountGameNumber": 2504,
     "rank": 3219,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8241,7 +8241,7 @@
     "accountGameNumber": 2505,
     "rank": 3195,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8253,7 +8253,7 @@
     "accountGameNumber": 2506,
     "rank": 3219,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8265,7 +8265,7 @@
     "accountGameNumber": 2507,
     "rank": 3243,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8277,7 +8277,7 @@
     "accountGameNumber": 2508,
     "rank": 3267,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8289,7 +8289,7 @@
     "accountGameNumber": 2509,
     "rank": 3291,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8301,7 +8301,7 @@
     "accountGameNumber": 2510,
     "rank": 3267,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8313,7 +8313,7 @@
     "accountGameNumber": 2511,
     "rank": 3243,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8325,7 +8325,7 @@
     "accountGameNumber": 2512,
     "rank": 3219,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8337,7 +8337,7 @@
     "accountGameNumber": 2513,
     "rank": 3243,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8349,7 +8349,7 @@
     "accountGameNumber": 2514,
     "rank": 3218,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8361,7 +8361,7 @@
     "accountGameNumber": 2515,
     "rank": 3194,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8373,7 +8373,7 @@
     "accountGameNumber": 2516,
     "rank": 3169,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8385,7 +8385,7 @@
     "accountGameNumber": 2517,
     "rank": 3193,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8397,7 +8397,7 @@
     "accountGameNumber": 2518,
     "rank": 3217,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8409,7 +8409,7 @@
     "accountGameNumber": 2519,
     "rank": 3241,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8421,7 +8421,7 @@
     "accountGameNumber": 2520,
     "rank": 3265,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8433,7 +8433,7 @@
     "accountGameNumber": 2521,
     "rank": 3289,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8445,7 +8445,7 @@
     "accountGameNumber": 2522,
     "rank": 3314,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8457,7 +8457,7 @@
     "accountGameNumber": 2523,
     "rank": 3338,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8469,7 +8469,7 @@
     "accountGameNumber": 2524,
     "rank": 3314,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8481,7 +8481,7 @@
     "accountGameNumber": 2525,
     "rank": 3338,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8493,7 +8493,7 @@
     "accountGameNumber": 2526,
     "rank": 3314,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8505,7 +8505,7 @@
     "accountGameNumber": 2527,
     "rank": 3290,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8517,7 +8517,7 @@
     "accountGameNumber": 2528,
     "rank": 3266,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8529,7 +8529,7 @@
     "accountGameNumber": 2529,
     "rank": 3243,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8541,7 +8541,7 @@
     "accountGameNumber": 2530,
     "rank": 3266,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8553,7 +8553,7 @@
     "accountGameNumber": 2531,
     "rank": 3292,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8565,7 +8565,7 @@
     "accountGameNumber": 2532,
     "rank": 3267,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8577,7 +8577,7 @@
     "accountGameNumber": 2533,
     "rank": 3292,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8589,7 +8589,7 @@
     "accountGameNumber": 2534,
     "rank": 3318,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8601,7 +8601,7 @@
     "accountGameNumber": 2535,
     "rank": 3296,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8613,7 +8613,7 @@
     "accountGameNumber": 2536,
     "rank": 3319,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8625,7 +8625,7 @@
     "accountGameNumber": 2537,
     "rank": 3344,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8637,7 +8637,7 @@
     "accountGameNumber": 2538,
     "rank": 3321,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8649,7 +8649,7 @@
     "accountGameNumber": 2539,
     "rank": 3344,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8661,7 +8661,7 @@
     "accountGameNumber": 2540,
     "rank": 3367,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8673,7 +8673,7 @@
     "accountGameNumber": 2541,
     "rank": 3342,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8685,7 +8685,7 @@
     "accountGameNumber": 2542,
     "rank": 3319,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8697,7 +8697,7 @@
     "accountGameNumber": 2543,
     "rank": 3343,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8709,7 +8709,7 @@
     "accountGameNumber": 2544,
     "rank": 3367,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8721,7 +8721,7 @@
     "accountGameNumber": 2545,
     "rank": 3342,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8733,7 +8733,7 @@
     "accountGameNumber": 2546,
     "rank": 3317,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8745,7 +8745,7 @@
     "accountGameNumber": 2547,
     "rank": 3341,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8757,7 +8757,7 @@
     "accountGameNumber": 2548,
     "rank": 3365,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8769,7 +8769,7 @@
     "accountGameNumber": 2549,
     "rank": 3340,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8781,7 +8781,7 @@
     "accountGameNumber": 2550,
     "rank": 3365,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8793,7 +8793,7 @@
     "accountGameNumber": 2551,
     "rank": 3388,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8805,7 +8805,7 @@
     "accountGameNumber": 2552,
     "rank": 3365,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8817,7 +8817,7 @@
     "accountGameNumber": 2553,
     "rank": 3388,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8829,7 +8829,7 @@
     "accountGameNumber": 2554,
     "rank": 3365,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8841,7 +8841,7 @@
     "accountGameNumber": 2555,
     "rank": 3341,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8853,7 +8853,7 @@
     "accountGameNumber": 2556,
     "rank": 3316,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8865,7 +8865,7 @@
     "accountGameNumber": 2557,
     "rank": 3291,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8877,7 +8877,7 @@
     "accountGameNumber": 2558,
     "rank": 3315,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8889,7 +8889,7 @@
     "accountGameNumber": 2559,
     "rank": 3290,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8901,7 +8901,7 @@
     "accountGameNumber": 2560,
     "rank": 3314,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8913,7 +8913,7 @@
     "accountGameNumber": 2561,
     "rank": 3338,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8925,7 +8925,7 @@
     "accountGameNumber": 2562,
     "rank": 3314,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8937,7 +8937,7 @@
     "accountGameNumber": 2563,
     "rank": 3338,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8949,7 +8949,7 @@
     "accountGameNumber": 2564,
     "rank": 3362,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8961,7 +8961,7 @@
     "accountGameNumber": 2565,
     "rank": 3337,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8973,7 +8973,7 @@
     "accountGameNumber": 2566,
     "rank": 3361,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8985,7 +8985,7 @@
     "accountGameNumber": 2567,
     "rank": 3336,
     "map": "Eichenwalde",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -8997,7 +8997,7 @@
     "accountGameNumber": 2568,
     "rank": 3312,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9009,7 +9009,7 @@
     "accountGameNumber": 2569,
     "rank": 3287,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9021,7 +9021,7 @@
     "accountGameNumber": 2570,
     "rank": 3311,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9033,7 +9033,7 @@
     "accountGameNumber": 2571,
     "rank": 3336,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9045,7 +9045,7 @@
     "accountGameNumber": 2572,
     "rank": 3312,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9057,7 +9057,7 @@
     "accountGameNumber": 2573,
     "rank": 3288,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9069,7 +9069,7 @@
     "accountGameNumber": 2574,
     "rank": 3264,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9081,7 +9081,7 @@
     "accountGameNumber": 2575,
     "rank": 3240,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9093,7 +9093,7 @@
     "accountGameNumber": 2576,
     "rank": 3216,
     "map": "Dorado",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9105,7 +9105,7 @@
     "accountGameNumber": 2577,
     "rank": 3192,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9117,7 +9117,7 @@
     "accountGameNumber": 2578,
     "rank": 3216,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9129,7 +9129,7 @@
     "accountGameNumber": 2579,
     "rank": 3192,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9141,7 +9141,7 @@
     "accountGameNumber": 2580,
     "rank": 3168,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9153,7 +9153,7 @@
     "accountGameNumber": 2581,
     "rank": 3144,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9165,7 +9165,7 @@
     "accountGameNumber": 2582,
     "rank": 3120,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9177,7 +9177,7 @@
     "accountGameNumber": 2583,
     "rank": 3094,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9189,7 +9189,7 @@
     "accountGameNumber": 2584,
     "rank": 3094,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9201,7 +9201,7 @@
     "accountGameNumber": 2585,
     "rank": 3070,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9213,7 +9213,7 @@
     "accountGameNumber": 2586,
     "rank": 3047,
     "map": "Oasis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9225,7 +9225,7 @@
     "accountGameNumber": 2587,
     "rank": 3023,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9237,7 +9237,7 @@
     "accountGameNumber": 2588,
     "rank": 2999,
     "map": "Hollywood",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9249,7 +9249,7 @@
     "accountGameNumber": 2589,
     "rank": 2976,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9261,7 +9261,7 @@
     "accountGameNumber": 2590,
     "rank": 2952,
     "map": "Numbani",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9273,7 +9273,7 @@
     "accountGameNumber": 2591,
     "rank": 2929,
     "map": "Route 66",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9285,7 +9285,7 @@
     "accountGameNumber": 2592,
     "rank": 2906,
     "map": "Blizzard World",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9297,7 +9297,7 @@
     "accountGameNumber": 2593,
     "rank": 2930,
     "map": "Watchpoint: Gibraltar",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9309,7 +9309,7 @@
     "accountGameNumber": 2594,
     "rank": 2906,
     "map": "Ilios",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9321,7 +9321,7 @@
     "accountGameNumber": 2595,
     "rank": 2929,
     "map": "King's Row",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9333,7 +9333,7 @@
     "accountGameNumber": 2596,
     "rank": 2953,
     "map": "Hanamura",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9345,7 +9345,7 @@
     "accountGameNumber": 2597,
     "rank": 2977,
     "map": "Nepal",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9357,7 +9357,7 @@
     "accountGameNumber": 2598,
     "rank": 3000,
     "map": "Junkertown",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9369,7 +9369,7 @@
     "accountGameNumber": 2599,
     "rank": 3024,
     "map": "Lijiang Tower",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9381,7 +9381,7 @@
     "accountGameNumber": 2600,
     "rank": 3048,
     "map": "Volskaya Industries",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9393,7 +9393,7 @@
     "accountGameNumber": 2601,
     "rank": 3025,
     "map": "Temple of Anubis",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   },
   {
     "userID": "5b3575e50fb244731053f106",
@@ -9405,6 +9405,6 @@
     "accountGameNumber": 2602,
     "rank": 3002,
     "map": "Horizon Lunar Colony",
-    "isPlacement": "FALSE"
+    "isPlacement": false
   }
 ]
