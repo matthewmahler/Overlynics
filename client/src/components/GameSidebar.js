@@ -15,7 +15,7 @@ class GameSidebar extends Component {
           <select 
           onChange={context.selectAccount}
           >
-            <option>Select Account</option>      
+            <option value="">Select Account</option>      
             {context.state.accounts.map((e, key) => {
                 return <option
                 
@@ -33,7 +33,7 @@ class GameSidebar extends Component {
                 name="seasons" 
                 onChange={context.selectSeason}
                 >       
-                <option>Select Season</option>   
+                <option value="">Select Season</option>   
                 {context.state.seasons.map((e, key) => {
                     return <option
                     className={''}

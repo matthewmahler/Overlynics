@@ -1,6 +1,4 @@
-import React, {
-  Component
-} from 'react'
+import React, { Component } from 'react'
 import API from './utils/API'
 
 const MyContext = React.createContext()
@@ -14,15 +12,20 @@ export class Provider extends Component {
     games: [],
     accounts: [],
     seasons: [],
+    currentStats: {},
     currentsessionID: "5b3577e92b10b6d743455483",
     currentAccount: "",
     currentAccountName: "",
+    currentPlatform: "",
     currentUser: "",
     selectedSeason: 0,
     currentSeason: 0,
     newRank: 0,
     newMap: "",
     graphData: [],
+    allUserGames: [],
+    allCurrentAccountGames: [],
+    allCurrentSeasonGames: []
 
   }
 
@@ -90,7 +93,8 @@ export class Provider extends Component {
   selectAccount = (event) => {
     this.setState({
       currentAccountName: this.state.accounts[event.target.selectedIndex - 1].accountName,
-      currentAccount: event.target.value
+      currentAccount: event.target.value,
+      currentPlatform: this.state.accounts[event.target.selectedIndex - 1].platform
     })
   };
 
@@ -106,16 +110,7 @@ export class Provider extends Component {
 
   getGames = (event) => {
     event.preventDefault();
-    //all games for all acounts
 
-
-    //all games for on account
-
-
-    //all games for 1 season
-
-
-    //account and season selected
     API
       .gameRetrieve(this.state.currentAccount, this.state.currentSeason)
       .then(res => {
@@ -125,8 +120,51 @@ export class Provider extends Component {
           games: games
         })
       this.repackageData()
+      this.getAllAccountGames();
+      this.getAllSeasonGames();
       })
+     
+      this.getAllGames(this.state.currentUser);
+      this.getStats(this.state.currentAccountName)
   }
+
+getAllGames = () => {
+      //all games for all acounts
+      API
+      .gameRetrieveAll(this.state.currentUser)
+      .then(res => {
+        let games = res.data
+        console.log(res)
+        this.setState({
+          allUserGames: games
+        })
+      })
+}
+
+getAllAccountGames = () => {
+  API
+  .gameRetrieveAccountAll(this.state.currentAccount)
+  .then(res => {
+    let games = res.data
+    console.log(res)
+    this.setState({
+      allCurrentAccountGames: games
+    })
+  })
+}
+
+getAllSeasonGames = () => {
+  //all games for all acounts
+  API
+  .gameRetrieveSeasonAll(this.state.currentSeason, this.state.currentUser)
+  .then(res => {
+    let games = res.data
+    console.log(res)
+    this.setState({
+      allCurrentSeasonGames: games
+    })
+  })
+}
 
   //rank has to be an integer so we parse it here
 
@@ -185,6 +223,19 @@ export class Provider extends Component {
       })
   }
 
+  getStats = () => {
+    API
+      .owapiCall(this.state.currentAccountName, this.state.currentPlatform)
+      .then(res => {
+        let stats = res.data
+        console.log(stats)
+        this.setState({
+         currentStats: stats
+        })
+
+      })
+  }
+
   render() {
     return ( <MyContext.Provider value = {
         {
@@ -199,6 +250,7 @@ export class Provider extends Component {
           handleRankChange: this.handleRankChange,
           handleGameSubmit: this.handleGameSubmit,
           repackageData: this.repackageData
+         
         }
       } > {
         this.props.children

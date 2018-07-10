@@ -4,12 +4,9 @@ export default {
   /////////
   //OWApi//
   /////////
-  owapiCall: function (query) {
-    return axios.get("/api/owapi", {
-      params: query
-    })
+  owapiCall: function (currentPlatform, currentAccountName ) {
+    return axios.get(`/api/owapi/${currentPlatform}/${currentAccountName}`)
   },
-
  
 
   /////////  
@@ -63,6 +60,18 @@ export default {
   gameSave: function (userID, accountID, sessionID, seasonID, sessionGameNumber, seasonGameNumber, accountGameNumber, rank, map, isPlacement) {
     return axios.post(`/api/games/${userID}/${accountID}/${sessionID}/${seasonID}/${sessionGameNumber}/${seasonGameNumber}/${accountGameNumber}/${rank}/${map}/${isPlacement}`)
   },
+
+  gameRetrieveAll: function (currentUser) {
+    return axios.get(`/api/games/${currentUser}`)
+  },
+  gameRetrieveAccountAll: function (currentAccount) {
+    return axios.get(`/api/games/all/account/${currentAccount}`)
+  },
+
+  gameRetrieveSeasonAll: function (currentSeason, currentUser) {
+    return axios.get(`/api/games/all/${currentSeason}/${currentUser}`)
+  },
+
 
   gameRetrieve: function (currentAccount, currentSeason) {
     return axios.get(`/api/games/${currentAccount}/${currentSeason}`)

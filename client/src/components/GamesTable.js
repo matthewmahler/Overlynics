@@ -32,9 +32,7 @@ class GamesTable extends Component {
                       <th>Win/Loss</th>
                       <th>SR Change</th>
                       <th>Rank</th>
-                      <th>
-                        Wins/Losses
-                      </th>
+                      <th>Wins/Losses</th>
                       <th>Map</th>
                     </tr>
                   </thead>
