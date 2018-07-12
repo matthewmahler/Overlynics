@@ -4,10 +4,10 @@ export default {
   /////////
   //OWApi//
   /////////
-  owapiCall: function (currentPlatform, currentAccountName ) {
-    return axios.get(`/api/owapi/${currentPlatform}/${currentAccountName}`)
+  owapiCall: function (currentAccountName, currentPlatform) {
+    return axios.get(`/api/owapi/${currentAccountName}/${currentPlatform}`)
   },
- 
+
 
   /////////  
   //Users//
@@ -82,7 +82,7 @@ export default {
   },
 
 
-  
+
   seasonRetrieve: function () {
     return axios.get("/api/seasons")
   },
